@@ -1,0 +1,67 @@
+2021-08-21 16:54:22:5422 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 16:54:23:5423 [32minfo[39m: [32mNavigating to url() {[39m
+[32m        return this.mainFrame().url();[39m
+[32m    }[39m
+2021-08-21 16:54:27:5427 [32minfo[39m: [32mPage closed.[39m
+2021-08-21 16:54:39:5439 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 16:54:40:5440 [32minfo[39m: [32mNavigating to url() {[39m
+[32m        return this.mainFrame().url();[39m
+[32m    }[39m
+2021-08-21 16:54:44:5444 [32minfo[39m: [32mPage closed.[39m
+2021-08-21 16:55:49:5549 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 16:55:49:5549 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 16:55:52:5552 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:17:21:1721 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:17:57:1757 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:18:18:1818 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:18:18:1818 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:18:23:1823 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:18:36:1836 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:19:09:199 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:20:00:200 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:20:48:2048 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:21:01:211 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:21:26:2126 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:21:58:2158 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:22:00:220 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:22:05:225 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:22:24:2224 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:22:26:2226 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:22:34:2234 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:23:05:235 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:23:07:237 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:23:14:2314 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:24:49:2449 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:24:51:2451 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:24:59:2459 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:25:09:259 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:25:11:2511 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:25:19:2519 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:25:33:2533 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:25:35:2535 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:25:43:2543 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:26:21:2621 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:26:23:2623 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:26:41:2641 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:29:11:2911 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:29:13:2913 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:29:39:2939 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 17:31:00:310 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 17:31:02:312 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 17:31:28:3128 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 18:00:01:01 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 18:00:03:03 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 18:02:31:231 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 18:02:33:233 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 18:03:14:314 [32minfo[39m: [32mPage and browser closed.[39m
+2021-08-21 18:12:35:1235 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 18:12:37:1237 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 18:14:18:1418 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 18:14:20:1420 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 18:17:51:1751 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 18:17:51:1751 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 18:19:07:197 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 18:19:08:198 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 18:19:58:1958 [32minfo[39m: [32mOpening browser..[39m
+2021-08-21 18:19:59:1959 [32minfo[39m: [32mNavigating to https://www.glassdoor.com/member/home/index.htm[39m
+2021-08-21 18:20:50:2050 [32minfo[39m: [32mPage and browser closed.[39m
