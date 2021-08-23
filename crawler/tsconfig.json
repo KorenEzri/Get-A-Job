@@ -3,7 +3,7 @@
       "node_modules"
     ],
     "include": [
-      "./controllers/**/*.ts"
+      "./crawlers/**/*.ts"
     ],
       "compilerOptions": {
         "outDir": "./dist",
