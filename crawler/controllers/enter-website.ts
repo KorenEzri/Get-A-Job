@@ -1,7 +1,7 @@
+/* eslint-disable linebreak-style */
 import puppeteer from "puppeteer";
 import Logger from "../logger/logger";
 import * as actions from "./actions";
-import args from "../args.json";
 
 const startBrowser = async (): Promise<puppeteer.Browser | undefined> => {
   try {
@@ -22,14 +22,14 @@ export const getWebsite = async (websiteURL: string) => {
   if (!browserInstance) return;
   const page = await browserInstance.newPage();
   await page.setViewport({
-    width: 2500,
-    height: 1080,
+    width: 1100,
+    height: 900,
   });
   Logger.info(`Navigating to ${websiteURL}`);
   await page.goto(websiteURL, { waitUntil: "networkidle2" });
-  await actions.loginToWebsite(args.websiteName, page);
-  await actions.enterJobSearch(args.websiteName, args.jobKeyWords, page);
-  await page.close();
-  await browserInstance.close();
+  await actions.glassdoor(page);
+  // await actions.enterJobSearch(args.websiteName, args.jobKeyWords, page);
+  // await page.close();
+  // await browserInstance.close();
   Logger.info("Page and browser closed.");
 };

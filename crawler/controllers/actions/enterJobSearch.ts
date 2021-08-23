@@ -17,7 +17,6 @@ export const enterJobSearch = async (
     },
   } = websiteSelectors.glassdoor;
   await clickElement(jobsButtonSelector, page);
-  //   await page.waitForSelector(jobsSearchInputSelector);
   await fillInputField(jobsSearchInputSelector, keywords[0], page);
   await page.keyboard.press("Enter");
   await sleep(350);
@@ -27,5 +26,7 @@ export const enterJobSearch = async (
   await page.keyboard.press("Enter");
   await clickElement(moreOptionsButton, page);
   await clickElement(applicationTypeDivSelector, page);
+  await sleep(500);
+  await sleep(500);
   return;
 };

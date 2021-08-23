@@ -9,6 +9,7 @@ export const websiteSelectors = {
       seeAllJobsLink: "a[data-test=jobs-location-see-all-link]",
       moreOptionsButton: "div[data-test=more-filter]",
       applicationTypeDivSelector: "div[data-test=filterAPPLICATION_TYPE]",
+      signInLinkFromJobsearchPageSelector: "div[id=SignInButton]",
     },
     jobsLink: "/Job/jobsHomeRedirect.htm",
   },
