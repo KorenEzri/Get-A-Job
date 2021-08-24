@@ -25,8 +25,7 @@ export const jobmaster = async () => {
 
   for (let i = 0; i < 16; i++) {
     try {
-      const currentPage = 1;
-      const jobmasterJobsearchLink = `https://www.jobmaster.co.il/jobs/?currPage=${currentPage}&q=`;
+      const jobmasterJobsearchLink = `https://www.jobmaster.co.il/jobs/?currPage=${i}&q=`;
       const keyword = args.jobKeyWords[i];
       if (!keyword) return;
       Logger.info(
@@ -35,8 +34,10 @@ export const jobmaster = async () => {
       await page.goto(`${jobmasterJobsearchLink}${keyword}`, {
         waitUntil: "networkidle2",
       });
-      await actions.sendApplications(page);
-      await actions.documentSentApplication(page);
+      const res = await actions.sendApplications(page);
+      if (res === "OK") {
+        continue;
+      }
     } catch ({ message }) {
       Logger.error(message);
     }

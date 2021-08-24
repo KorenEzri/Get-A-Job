@@ -4,10 +4,6 @@ export const getTextContent = async (
   selector: string,
   page: puppeteer.Page
 ) => {
-  let textContent: string = "";
-  await page.evaluate(() => {
-    const el = document.getElementById(selector);
-    textContent = el?.textContent || "";
-  });
-  return textContent;
+  const textContent = await page.$eval(selector, (el) => el.textContent);
+  return (textContent?.replace(/\W/g, " ") || "").replace("  ", "\n");
 };

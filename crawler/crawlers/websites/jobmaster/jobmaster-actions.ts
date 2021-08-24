@@ -17,7 +17,7 @@ const clickSendApplicationButton = async (page: puppeteer.Page, id: string) => {
 const checkIfSentOverThreeTimes = async (page: puppeteer.Page) => {
   const { jobMasterModalCloseBtnSelector } = selectors;
   try {
-    const isBlock = await utils.getTextContent("modal_content", page);
+    const isBlock = await utils.getTextContent("#modal_content", page);
     if (isBlock.includes("Send More Than 3 Times")) {
       await utils.clickElement(jobMasterModalCloseBtnSelector, page);
       return true;
@@ -63,7 +63,9 @@ export const sendApplications = async (page: puppeteer.Page) => {
       if (isBlocked) continue;
       await addApplicationLetter(page);
       await utils.clickElement(selectors.sendApplicationButton, page);
+      await utils.writeToCSV(await collectJobData(page));
     }
+    return "OK";
   } catch ({ message }) {
     Logger.error(
       `In sendApplications() at jobmaster-actions.ts, line ~37: ${message}`
@@ -82,28 +84,17 @@ export const addApplicationLetter = async (page: puppeteer.Page) => {
     page
   );
 };
-// jobTitle: string;
-// sentAt: Date | string;
-// description: string;
-const collectJobData = async () => {
-  return [
-    {
-      jobTitle: "string",
-      sentAt: new Date(),
-      description: "DESasdsadsadasdCIRPTIONSADadasdasd",
-    },
-    {
-      jobTitle: "string",
-      sentAt: new Date(),
-      description: "DESasdsadsadasdCIRPTIONSADadasdasd",
-    },
-    {
-      jobTitle: "string",
-      sentAt: new Date(),
-      description: "DESasdsadsadasdCIRPTIONSADadasdasd",
-    },
-  ];
-};
-export const documentSentApplication = async (page: puppeteer.Page) => {
-  await utils.writeToCSV(await collectJobData());
+
+const collectJobData = async (page: puppeteer.Page) => {
+  const { getTextContent } = utils;
+  const jobData = {
+    Title: await getTextContent(selectors.jobTitleSelector, page),
+    Location: await getTextContent(selectors.jobLocationSelector, page),
+    Type: await getTextContent(selectors.jobTypeSelector, page),
+    Salary: await getTextContent(selectors.jobSalarySelector, page),
+    Description: await getTextContent(selectors.jobDescriptionSelector, page),
+    Requirements: await getTextContent(selectors.jobRequirementsSelector, page),
+    Date: new Date().toLocaleDateString,
+  };
+  return [jobData];
 };

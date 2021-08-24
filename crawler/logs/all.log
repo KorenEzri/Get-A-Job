@@ -462,3 +462,138 @@
 2021-08-24 00:04:29:429 [32minfo[39m: [32mOpening browser..[39m
 2021-08-24 00:04:30:430 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
 2021-08-24 00:04:40:440 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:49:05:495 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 00:49:06:496 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 00:49:17:4917 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:49:23:4923 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:49:23:4923 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:49:23:4923 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:49:23:4923 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 00:51:46:5146 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 00:51:46:5146 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 00:51:57:5157 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:52:05:525 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:52:06:526 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:52:06:526 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:52:06:526 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 00:53:44:5344 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 00:53:44:5344 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 00:53:55:5355 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:54:01:541 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:54:02:542 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:54:02:542 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:54:02:542 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 00:55:02:552 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 00:55:03:553 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 00:55:13:5513 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:55:20:5520 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:55:20:5520 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 00:56:31:5631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 00:56:31:5631 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 00:56:42:5642 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:56:48:5648 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:56:48:5648 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 00:57:32:5732 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 00:57:33:5733 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 00:57:44:5744 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:57:50:5750 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 00:57:50:5750 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:57:50:5750 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 00:57:50:5750 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 00:58:50:5850 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 00:58:51:5851 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 00:59:02:592 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 00:59:13:5913 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 00:59:14:5914 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:59:14:5914 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:22:56:2256 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:22:57:2257 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:23:08:238 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:23:16:2316 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 01:23:17:2317 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:23:17:2317 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:24:17:2417 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:24:18:2418 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:24:29:2429 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:24:59:2459 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-24 01:24:59:2459 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:25:05:255 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:25:06:256 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:25:17:2517 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:25:41:2541 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 01:25:41:2541 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:25:41:2541 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:26:34:2634 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:26:35:2635 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:26:46:2646 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:27:02:272 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: document is not defined[39m
+2021-08-24 01:27:02:272 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:27:02:272 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:29:05:295 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:29:06:296 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:29:16:2916 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:29:26:2926 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Error: failed to find element matching selector "modal_content"[39m
+2021-08-24 01:29:26:2926 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:29:26:2926 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:30:33:3033 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:30:34:3034 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:30:45:3045 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:32:18:3218 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:32:19:3219 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:32:29:3229 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:35:02:352 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:35:03:353 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:35:14:3514 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 01:35:56:3556 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: EBUSY: resource busy or locked, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\jobs.csv'[39m
+2021-08-24 01:35:56:3556 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:37:03:373 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:37:03:373 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:37:18:3718 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:37:18:3718 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:37:29:3729 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 01:42:59:4259 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:42:59:4259 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:43:10:4310 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 01:43:15:4315 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:43:16:4316 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:43:27:4327 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 01:44:08:448 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: EBUSY: resource busy or locked, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\jobs.csv'[39m
+2021-08-24 01:44:08:448 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:45:26:4526 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:45:26:4526 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:45:37:4537 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 01:48:41:4841 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 01:52:15:5215 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 01:52:15:5215 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 01:52:26:5226 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 01:55:14:5514 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 01:55:41:5541 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 01:55:41:5541 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 01:56:16:5616 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJobundefined` failed: timeout 30000ms exceeded[39m
+2021-08-24 01:56:16:5616 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 01:56:28:5628 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 01:56:28:5628 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=react[39m
+2021-08-24 01:57:09:579 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 01:57:09:579 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=node.js[39m
+2021-08-24 01:57:51:5751 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 01:57:51:5751 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=node[39m
+2021-08-24 02:00:15:015 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 02:00:16:016 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 02:00:27:027 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=0&q=nodejs[39m
+2021-08-24 02:01:26:126 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-24 02:01:26:126 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 02:01:39:139 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 02:01:39:139 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=developer[39m
+2021-08-24 02:02:20:220 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 02:02:20:220 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=fullstack[39m

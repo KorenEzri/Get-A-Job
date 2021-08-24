@@ -7,4 +7,9 @@ export const selectors = {
   jobMasterThreeTimesSentBlockSelector: "div[id=modal_content]",
   jobMasterModalCloseBtnSelector: "span[id=modal_closebtn]",
   jobTitleSelector: "div[class=jobHead__text__titleAndCompName]",
+  jobLocationSelector: "li[class=jobLocation]",
+  jobTypeSelector: "li[class=jobLocation]",
+  jobSalarySelector: "li[class=jobSalary]",
+  jobDescriptionSelector: "div[class=jobDescription]",
+  jobRequirementsSelector: "div[class=jobRequirements]",
 };
