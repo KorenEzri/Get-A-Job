@@ -82,3 +82,96 @@
 2021-08-23 23:40:54:4054 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: textarea[id=letter][39m
 2021-08-23 23:51:49:5149 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #misra7549313[39m
 2021-08-24 00:03:23:323 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-24 00:49:23:4923 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:49:23:4923 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:49:23:4923 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:52:05:525 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:52:06:526 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:52:06:526 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:54:01:541 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:54:02:542 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:54:02:542 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:44[39m
+2021-08-24 00:55:20:5520 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:56:48:5648 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:57:50:5750 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 00:57:50:5750 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 00:57:50:5750 [31merror[39m: [31mEvaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 00:59:13:5913 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 00:59:14:5914 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:23:16:2316 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 01:23:17:2317 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:24:59:2459 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-24 01:25:41:2541 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Evaluation failed: ReferenceError: selector is not defined[39m
+[31m    at __puppeteer_evaluation_script__:2:48[39m
+2021-08-24 01:25:41:2541 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:27:02:272 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: document is not defined[39m
+2021-08-24 01:27:02:272 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:29:26:2926 [31merror[39m: [31mIn checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: Error: failed to find element matching selector "modal_content"[39m
+2021-08-24 01:29:26:2926 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-24 01:35:56:3556 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: EBUSY: resource busy or locked, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\jobs.csv'[39m
+2021-08-24 01:44:08:448 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: EBUSY: resource busy or locked, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\jobs.csv'[39m
+2021-08-24 01:55:41:5541 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 01:56:16:5616 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJobundefined` failed: timeout 30000ms exceeded[39m
+2021-08-24 01:56:28:5628 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 01:57:09:579 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 01:57:51:5751 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 02:01:26:126 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-24 02:01:39:139 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 02:02:20:220 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 12:45:09:459 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=0&q=nodejs[39m
+2021-08-24 12:45:09:459 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 12:45:09:459 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=2&q=developer[39m
+2021-08-24 12:45:09:459 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=3&q=fullstack[39m
+2021-08-24 12:45:09:459 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=4&q=react[39m
+2021-08-24 12:45:09:459 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=5&q=node.js[39m
+2021-08-24 12:45:09:459 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=6&q=node[39m
+2021-08-24 12:46:51:4651 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 12:46:51:4651 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 12:46:51:4651 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 12:46:51:4651 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 12:46:51:4651 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=react[39m
+2021-08-24 12:46:51:4651 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=node.js[39m
+2021-08-24 12:46:51:4651 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=node[39m
+2021-08-24 12:48:21:4821 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 12:48:21:4821 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-24 12:48:21:4821 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-24 12:48:21:4821 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-24 12:48:21:4821 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=react[39m
+2021-08-24 12:48:21:4821 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=node.js[39m
+2021-08-24 12:48:21:4821 [31merror[39m: [31mnet::ERR_ABORTED at https://www.jobmaster.co.il/jobs/?currPage=1&q=node[39m
+2021-08-24 12:55:45:5545 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7840942` failed: timeout 30000ms exceeded[39m
+2021-08-24 13:48:58:4858 [31merror[39m: [31mInvalid login: 535-5.7.8 Username and Password not accepted. Learn more at[39m
+[31m535 5.7.8  https://support.google.com/mail/?p=BadCredentials m5sm1958193wmi.1 - gsmtp[39m
+2021-08-24 13:52:35:5235 [31merror[39m: [31mENOENT: no such file or directory, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\crawler\crawlers\websites\jobmaster\images\download.png'[39m
+2021-08-24 14:06:33:633 [31merror[39m: [31mENOENT: no such file or directory, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\crawler\crawlers\websites\jobmaster\images\92522f41-08fe-429c-8f70-9857e280d2ac.png'[39m
+2021-08-24 14:08:36:836 [31merror[39m: [31mENOENT: no such file or directory, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\images\e69959f7-e2ab-41f9-838c-20b095f1be99.png'[39m
+2021-08-24 14:09:48:948 [31merror[39m: [31mENOENT: no such file or directory, open 'C:\Users\Koren\Documents\Get-A-Job\crawler\crawlers\websites\jobmaster\images\download.png'[39m
+2021-08-24 14:21:50:2150 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 14:32:19:3219 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7840954` failed: timeout 30000ms exceeded[39m
+2021-08-24 14:32:49:3249 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-24 14:33:01:331 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 14:33:36:3336 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 14:47:11:4711 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 14:48:18:4818 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 14:49:24:4924 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 15:05:02:52 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #null[39m
+2021-08-24 15:21:59:2159 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 15:22:30:2230 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 15:23:02:232 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 15:23:33:2333 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 15:24:05:245 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 15:24:36:2436 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 15:32:56:3256 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-24 15:34:31:3431 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-24 15:38:31:3831 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-24 15:59:28:5928 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Error: failed to find element matching selector "div[class=jobHead__text__titleAndCompName]"[39m

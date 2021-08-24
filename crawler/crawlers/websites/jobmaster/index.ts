@@ -10,35 +10,37 @@ export const jobmaster = async () => {
   const browser = await startBrowser();
   if (!browser) return;
   const page = await browser.newPage();
-
   await page.setViewport({
     width: 1200,
     height: 1000,
   });
-
   Logger.info(
     `Navigating to Jobmaster login link, url: ${jobmasterLoginLink};`
   );
-
   await page.goto(jobmasterLoginLink, { waitUntil: "networkidle2" });
   await actions.loginToJobmaster(page);
-
-  for (let i = 0; i < 16; i++) {
-    try {
-      const currentPage = 1;
-      const jobmasterJobsearchLink = `https://www.jobmaster.co.il/jobs/?currPage=${currentPage}&q=`;
-      const keyword = args.jobKeyWords[i];
-      if (!keyword) return;
-      Logger.info(
-        `Navigating to Jobmaster jobsearch link, url: ${jobmasterJobsearchLink}${keyword}`
-      );
-      await page.goto(`${jobmasterJobsearchLink}${keyword}`, {
-        waitUntil: "networkidle2",
-      });
-      await actions.sendApplications(page);
-      await actions.documentSentApplication(page);
-    } catch ({ message }) {
-      Logger.error(message);
+  for (let i = 0; i < args.jobKeyWords.length; i++) {
+    const keyword = args.jobKeyWords[i];
+    for (let i = 1; i < 12; i++) {
+      const pageNumber = i;
+      try {
+        const jobmasterJobsearchLink = `https://www.jobmaster.co.il/jobs/?currPage=${pageNumber}&q=${keyword}`;
+        Logger.info(
+          `Navigating to Jobmaster jobsearch link, url: ${jobmasterJobsearchLink}`
+        );
+        await page.goto(`${jobmasterJobsearchLink}`, {
+          waitUntil: "networkidle2",
+        });
+        await actions.sendApplications(page);
+      } catch ({ message }) {
+        if (
+          message ===
+          "waiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded"
+        ) {
+          return;
+        }
+        Logger.error(message);
+      }
     }
   }
 };

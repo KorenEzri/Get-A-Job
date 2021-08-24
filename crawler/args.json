@@ -2,11 +2,11 @@
   "websiteName": "glassdoor",
   "websiteURL": "https://www.glassdoor.com/",
   "jobKeyWords": [
-    "fullstack",
-    "developer",
-    "web development",
-    "react",
     "nodejs",
+    "web development",
+    "developer",
+    "fullstack",
+    "react",
     "node.js",
     "node",
     "mongoDB"

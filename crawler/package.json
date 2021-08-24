@@ -12,7 +12,9 @@
   "devDependencies": {
     "@types/async-csv": "^2.1.1",
     "@types/node": "^16.7.1",
+    "@types/nodemailer": "^6.4.4",
     "@types/puppeteer": "^5.4.4",
+    "@types/uuid": "^8.3.1",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "@typescript-eslint/parser": "^4.29.2",
     "eslint": "^7.32.0",
@@ -26,7 +28,9 @@
   },
   "dependencies": {
     "dotenv": "^10.0.0",
+    "nodemailer": "^6.6.3",
     "puppeteer": "^10.2.0",
+    "uuid": "^8.3.2",
     "winston": "^3.3.3"
   }
 }

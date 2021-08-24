@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+import { v4 as uuidv4 } from "uuid";
 import dotenv from "dotenv";
 import { selectors } from "./jobmaster-selectors";
 import * as utils from "../../utils";
@@ -17,7 +18,7 @@ const clickSendApplicationButton = async (page: puppeteer.Page, id: string) => {
 const checkIfSentOverThreeTimes = async (page: puppeteer.Page) => {
   const { jobMasterModalCloseBtnSelector } = selectors;
   try {
-    const isBlock = await utils.getTextContent("modal_content", page);
+    const isBlock = await utils.getTextContent("#modal_content", page);
     if (isBlock.includes("Send More Than 3 Times")) {
       await utils.clickElement(jobMasterModalCloseBtnSelector, page);
       return true;
@@ -27,6 +28,12 @@ const checkIfSentOverThreeTimes = async (page: puppeteer.Page) => {
       `In checkIfSentOverThreeTimes() at jobmaster-actions at ~line 17: ${message}`
     );
   }
+};
+
+const checkIfExtraQuestionsArePresent = async (page: puppeteer.Page) => {
+  const { extraFormQuestions } = selectors;
+  if ((await page.$(extraFormQuestions)) !== null) return true;
+  return false;
 };
 
 export const loginToJobmaster = async (page: puppeteer.Page) => {
@@ -49,25 +56,43 @@ const getAllJobArticles = async (page: puppeteer.Page) => {
   );
   return articleElements;
 };
+const openApplicationModal = async (page: puppeteer.Page, id: string) => {
+  await page.hover(`#${id}`);
+  await utils.clickElement(`#${id}`, page);
+  await clickSendApplicationButton(page, id);
+  await utils.sleep(400);
+};
+const handleApplicationModal = async (page: puppeteer.Page) => {
+  const extraQuestions = await checkIfExtraQuestionsArePresent(page);
+  if (extraQuestions) {
+    Logger.http(
+      `Custom questions detected for page ${page.url()} ... Sending custom questions as email.`
+    );
+    await sendCustomQuestionsToMail(page);
+    await utils.clickElement(selectors.jobMasterModalCloseBtnSelector, page);
+    return;
+  }
+  await addApplicationLetter(page);
+  await utils.clickElement(selectors.sendApplicationButton, page);
+};
 export const sendApplications = async (page: puppeteer.Page) => {
   const articleElements = await getAllJobArticles(page);
-  try {
-    for (let i = 0; i < articleElements.length; i++) {
+  for (let i = 0; i < articleElements.length; i++) {
+    try {
       const { id } = articleElements[i];
-      await page.hover(`#${id}`);
-      await utils.clickElement(`#${id}`, page);
-      await clickSendApplicationButton(page, id);
-      await utils.sleep(400);
+      if (id == null) continue;
+      await openApplicationModal(page, id);
       const isBlocked = await checkIfSentOverThreeTimes(page);
       await utils.sleep(300);
       if (isBlocked) continue;
-      await addApplicationLetter(page);
-      await utils.clickElement(selectors.sendApplicationButton, page);
+      await handleApplicationModal(page);
+      await utils.writeToCSV(await collectJobData(page));
+    } catch ({ message }) {
+      Logger.error(
+        `In sendApplications() at jobmaster-actions.ts, line ~37: ${message}`
+      );
+      continue;
     }
-  } catch ({ message }) {
-    Logger.error(
-      `In sendApplications() at jobmaster-actions.ts, line ~37: ${message}`
-    );
   }
 };
 
@@ -78,32 +103,52 @@ export const addApplicationLetter = async (page: puppeteer.Page) => {
   await utils.sleep(2000);
   await utils.fillInputField(
     applicationLetterSelector,
-    "This resume was sent automatically by a bot created by Koren Ben-Ezri, the resume's owner.",
+    `I am very excited to apply for this position and I sincerely hope you take the time to view my resume and some of the projects I've worked on. 
+    Best regards,
+    Koren Ben-Ezri, Fullstack Developer.
+    `,
     page
   );
 };
-// jobTitle: string;
-// sentAt: Date | string;
-// description: string;
-const collectJobData = async () => {
-  return [
-    {
-      jobTitle: "string",
-      sentAt: new Date(),
-      description: "DESasdsadsadasdCIRPTIONSADadasdasd",
-    },
-    {
-      jobTitle: "string",
-      sentAt: new Date(),
-      description: "DESasdsadsadasdCIRPTIONSADadasdasd",
-    },
-    {
-      jobTitle: "string",
-      sentAt: new Date(),
-      description: "DESasdsadsadasdCIRPTIONSADadasdasd",
-    },
-  ];
+
+const collectJobData = async (page: puppeteer.Page) => {
+  const { getTextContent } = utils;
+  const jobData = {
+    Title: await getTextContent(selectors.jobTitleSelector, page),
+    Location: await getTextContent(selectors.jobLocationSelector, page),
+    Type: await getTextContent(selectors.jobTypeSelector, page),
+    Salary: await getTextContent(selectors.jobSalarySelector, page),
+    Description: await getTextContent(selectors.jobDescriptionSelector, page),
+    Requirements: await getTextContent(selectors.jobRequirementsSelector, page),
+    Date: new Date().toLocaleDateString,
+  };
+  return [jobData];
 };
-export const documentSentApplication = async (page: puppeteer.Page) => {
-  await utils.writeToCSV(await collectJobData());
+
+const sendCustomQuestionsToMail = async (page: puppeteer.Page) => {
+  const cid = uuidv4();
+  const screenShotTaken = await utils.takeScreenshot(
+    `crawlers/websites/jobmaster/images/${cid}.png`,
+    page
+  );
+  if (screenShotTaken !== "OK") {
+    Logger.error(screenShotTaken);
+    return;
+  }
+  const mailOptions = {
+    from: "Koren Ben-Ezri, FS developer <korenatdevelopes@gmail.com>",
+    to: "korenatdevelopes@gmail.com",
+    subject: "Get-A-Job: Custom Questions encountered.",
+    text: "",
+    html: `<p> Hi, I found these custom questions while applying to jobs for you. Link to relevant page: ${page.url()} </p> \n\n
+     <img src="cid:${cid}"/>`,
+    attachments: [
+      {
+        filename: "image.png",
+        path: `crawlers/websites/jobmaster/images/${cid}.png`,
+        cid,
+      },
+    ],
+  };
+  await utils.sendMail(mailOptions);
 };
