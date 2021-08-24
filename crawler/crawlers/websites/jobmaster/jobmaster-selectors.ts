@@ -12,4 +12,5 @@ export const selectors = {
   jobSalarySelector: "li[class=jobSalary]",
   jobDescriptionSelector: "div[class=jobDescription]",
   jobRequirementsSelector: "div[class=jobRequirements]",
+  extraFormQuestions: ".FilterQuestions",
 };
