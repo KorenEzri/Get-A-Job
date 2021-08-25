@@ -2,9 +2,6 @@
   "websiteName": "glassdoor",
   "websiteURL": "https://www.glassdoor.com/",
   "jobKeyWords": [
-    "frontend",
-    "back end",
-    "developer",
     "programmer",
     "node.js",
     "web dev",
@@ -20,6 +17,9 @@
     "mongoDB",
     "backend",
     "react",
-    "front end"
+    "front end",
+    "frontend",
+    "back end",
+    "developer"
   ]
 }
