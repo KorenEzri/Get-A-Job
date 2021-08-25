@@ -175,3 +175,445 @@
 2021-08-24 15:34:31:3431 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
 2021-08-24 15:38:31:3831 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
 2021-08-24 15:59:28:5928 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Error: failed to find element matching selector "div[class=jobHead__text__titleAndCompName]"[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 18:53:10:5310 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 18:53:10:5310 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 19:03:49:349 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-24 23:45:40:4540 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': 'button[aria-label=Add a note]' is not a valid selector.[39m
+[31m    at predicateQueryHandler (eval at waitForPredicatePageFunction (:2:23), <anonymous>:5:68)[39m
+[31m    at predicate (eval at waitForPredicatePageFunction (:2:23), <anonymous>:23:26)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:26:11)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:27:7)[39m
+[31m    at pollMutation (__puppeteer_evaluation_script__:16:31)[39m
+[31m    at waitForPredicatePageFunction (__puppeteer_evaluation_script__:9:22)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 23:56:49:5649 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': 'button[aria-label=Send now]' is not a valid selector.[39m
+[31m    at predicateQueryHandler (eval at waitForPredicatePageFunction (:2:23), <anonymous>:5:68)[39m
+[31m    at predicate (eval at waitForPredicatePageFunction (:2:23), <anonymous>:23:26)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:26:11)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:27:7)[39m
+[31m    at pollMutation (__puppeteer_evaluation_script__:16:31)[39m
+[31m    at waitForPredicatePageFunction (__puppeteer_evaluation_script__:9:22)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mwaiting for selector `#undefined` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:01:32:132 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': 'button[aria-label=Send now]' is not a valid selector.[39m
+[31m    at predicateQueryHandler (eval at waitForPredicatePageFunction (:2:23), <anonymous>:5:68)[39m
+[31m    at predicate (eval at waitForPredicatePageFunction (:2:23), <anonymous>:23:26)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:26:11)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:27:7)[39m
+[31m    at pollMutation (__puppeteer_evaluation_script__:16:31)[39m
+[31m    at waitForPredicatePageFunction (__puppeteer_evaluation_script__:9:22)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:14:30:1430 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:21:11:2111 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:21:13:2113 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:21:13:2113 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:21:13:2113 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:25:33:2533 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:26:06:266 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:39:26:3926 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:39:28:3928 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:39:28:3928 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:39:28:3928 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:42:38:4238 [31merror[39m: [31mExecution context was destroyed, most likely because of a navigation.[39m
+2021-08-25 00:42:39:4239 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:42:39:4239 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:42:39:4239 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:45:27:4527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:45:28:4528 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:45:28:4528 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:45:28:4528 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:50:41:5041 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:42:5042 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:43:5043 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:43:5043 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:43:5043 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:11:5211 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:12:5212 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:14:5214 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:14:5214 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:35:5335 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:36:5336 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:38:5338 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:38:5338 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:10:59:1059 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:01:111 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:03:113 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:03:113 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:03:113 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:15:47:1547 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:48:1548 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:08:168 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:18:48:1848 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-25 01:19:18:1918 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-25 01:39:16:3916 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 01:42:41:4241 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 01:44:15:4415 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 01:56:04:564 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 01:56:46:5646 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: textarea[id=letter][39m
+2021-08-25 01:56:46:5646 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #misra7662617[39m
+2021-08-25 02:03:29:329 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `textarea[id=letter]` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:04:00:40 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7844546` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:04:31:431 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7800520` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:05:02:52 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7803359` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:05:33:533 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7805775` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:06:42:642 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843440` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:07:13:713 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843377` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:07:44:744 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7836838` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:08:15:815 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7819816` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:08:46:846 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7817543` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:09:53:953 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7839792` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:10:27:1027 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7841812` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:10:58:1058 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7841810` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:12:43:1243 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 02:15:51:1551 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:16:24:1624 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJobundefined` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:29:50:2950 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 02:54:37:5437 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 03:23:49:2349 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 04:09:03:93 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 04:30:13:3013 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 05:04:09:49 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 06:33:25:3325 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 06:35:04:354 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 06:35:05:355 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 06:35:37:3537 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:23:13:2313 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:26:35:2635 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 07:36:48:3648 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 07:52:50:5250 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `.SaveButton` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:53:21:5321 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7797882` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:53:51:5351 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7768588` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:54:22:5422 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7691962` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:54:53:5453 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838058` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:55:24:5524 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7831593` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:55:55:5555 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7322540` failed: timeout 30000ms exceeded[39m
+2021-08-25 08:14:34:1434 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 08:32:17:3217 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 11:30:00:300 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:02:302 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:04:304 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:04:304 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:34:59:3459 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:01:351 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:03:353 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:56:3556 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:58:3558 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:40:3640 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:40:3640 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:43:59:4359 [31merror[39m: [31mExecution context was destroyed, most likely because of a navigation.[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 11:44:01:441 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 11:45:34:4534 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 11:47:51:4751 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 11:50:10:5010 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 11:53:59:5359 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 12:00:23:023 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 12:08:40:840 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 12:09:48:948 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 12:10:38:1038 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 12:14:40:1440 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 12:16:13:1613 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 12:47:47:4747 [31merror[39m: [31mundefinedwaiting for selector `#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)` failed: timeout 10000ms exceeded[39m
+2021-08-25 12:47:57:4757 [31merror[39m: [31mNavigation timeout of 10000 ms exceeded[39m
+2021-08-25 12:57:38:5738 [31merror[39m: [31mwaiting for selector `#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(0)` failed: timeout 10000ms exceeded[39m
+2021-08-25 12:59:38:5938 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 12:59:48:5948 [31merror[39m: [31mwaiting for selector `#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:00:31:031 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 13:01:17:117 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 13:02:14:214 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 13:15:54:1554 [31merror[39m: [31mCannot read property 'waitForSelector' of undefined[39m
+2021-08-25 13:17:03:173 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:18:37:1837 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:20:18:2018 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:20:34:2034 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:20:49:2049 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:21:40:2140 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:21:53:2153 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:24:37:2437 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:24:53:2453 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:25:09:259 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 14:55:44:5544 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-25 14:56:15:5615 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:56:41:5641 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-25 14:57:12:5712 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:57:43:5743 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7756184` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:58:14:5814 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7811465` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:58:44:5844 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7791707` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:59:15:5915 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846598` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:59:46:5946 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7765843` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:00:17:017 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846106` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:00:48:048 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7842387` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:01:19:119 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843435` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:01:50:150 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-25 15:02:21:221 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:04:56:456 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:05:26:526 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `.SaveButton` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:05:57:557 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:06:28:628 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7756184` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:06:59:659 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7811465` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:07:29:729 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7791707` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:08:00:80 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846598` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:08:31:831 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7765843` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:09:02:92 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846106` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:09:33:933 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7842387` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:10:04:104 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843435` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:10:10:1010 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:13:17:1317 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:14:24:1424 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:14:54:1454 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `.SaveButton` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:42:22:4222 [31merror[39m: [31mNode is either not visible or not an HTMLElement[39m
+2021-08-25 15:42:23:4223 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Error: failed to find element matching selector "div[class=jobHead__text__titleAndCompName]"[39m
+2021-08-25 15:56:05:565 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 15:56:07:567 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 15:56:38:5638 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 16:03:41:341 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 16:04:14:414 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJobundefined` failed: timeout 30000ms exceeded[39m

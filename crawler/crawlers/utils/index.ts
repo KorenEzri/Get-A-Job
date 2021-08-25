@@ -6,3 +6,7 @@ export * from "./get-text-content";
 export * from "./write-to-csv";
 export * from "./mail";
 export * from "./take-screenshot";
+export * from "./click-by-text";
+export * from "./check-if-exists";
+export * from "./with-try-catch";
+export * from "./write-to-json";
