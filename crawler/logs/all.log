@@ -779,3 +779,997 @@
 2021-08-24 15:41:58:4158 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=web development[39m
 2021-08-24 15:51:31:5131 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=web%20development ... Sending custom questions as email.[39m
 2021-08-24 15:59:28:5928 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Error: failed to find element matching selector "div[class=jobHead__text__titleAndCompName]"[39m
+2021-08-24 17:11:15:1115 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:11:16:1116 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:11:51:1151 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:11:52:1152 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:12:23:1223 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:12:24:1224 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:13:08:138 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:13:09:139 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:15:08:158 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:15:09:159 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:17:34:1734 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:17:34:1734 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:18:05:185 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:18:05:185 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:19:14:1914 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:19:14:1914 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:20:00:200 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:20:01:201 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:22:30:2230 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:22:31:2231 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:23:07:237 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:23:08:238 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:24:07:247 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:24:08:248 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:33:30:3330 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:33:31:3331 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:34:05:345 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:34:06:346 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:35:46:3546 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:35:47:3547 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:36:29:3629 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:36:29:3629 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:37:27:3727 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:37:28:3728 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:38:32:3832 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:38:33:3833 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:40:01:401 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:40:01:401 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:40:54:4054 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:40:55:4055 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:41:50:4150 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:41:51:4151 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:43:26:4326 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:43:26:4326 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 17:46:23:4623 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 17:46:24:4624 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:29:03:293 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:29:04:294 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:30:40:3040 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:30:41:3041 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:34:55:3455 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:34:56:3456 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:35:34:3534 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:35:35:3535 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:40:54:4054 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:40:55:4055 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:42:04:424 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:42:04:424 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:42:17:4217 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:42:18:4218 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:42:35:4235 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:42:36:4236 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:43:21:4321 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:43:21:4321 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 18:43:40:4340 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 18:51:50:5150 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:51:50:5150 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 18:52:07:527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 18:52:49:5249 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:52:51:5251 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 18:53:10:5310 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 18:53:10:5310 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 18:53:11:5311 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 18:55:10:5510 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 18:55:11:5511 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 18:55:21:5521 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 18:56:12:5612 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=nodejs[39m
+2021-08-24 18:56:41:5641 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=2&q=nodejs ... Sending custom questions as email.[39m
+2021-08-24 18:58:26:5826 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=nodejs[39m
+2021-08-24 19:03:19:319 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=nodejs[39m
+2021-08-24 19:03:49:349 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-24 19:03:49:349 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=nodejs[39m
+2021-08-24 19:05:25:525 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=nodejs[39m
+2021-08-24 19:14:14:1414 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 19:14:15:1415 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 19:14:25:1425 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 19:15:15:1515 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=nodejs[39m
+2021-08-24 19:15:44:1544 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=2&q=nodejs ... Sending custom questions as email.[39m
+2021-08-24 19:16:35:1635 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=nodejs[39m
+2021-08-24 19:17:10:1710 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 19:17:11:1711 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 19:17:21:1721 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=nodejs[39m
+2021-08-24 19:17:53:1753 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=nodejs[39m
+2021-08-24 23:36:35:3635 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:36:36:3636 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:36:47:3647 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=node[39m
+2021-08-24 23:37:15:3715 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:37:16:3716 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:37:27:3727 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=nodejs[39m
+2021-08-24 23:37:58:3758 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=nodejs[39m
+2021-08-24 23:38:30:3830 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=nodejs[39m
+2021-08-24 23:39:01:391 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=9&q=nodejs[39m
+2021-08-24 23:39:26:3926 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:39:27:3927 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:39:38:3938 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 23:39:54:3954 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:39:55:3955 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:40:05:405 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=nodejs[39m
+2021-08-24 23:43:44:4344 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:43:45:4345 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:44:32:4432 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:44:33:4433 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:44:58:4458 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:44:58:4458 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:45:09:459 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=nodejs[39m
+2021-08-24 23:45:40:4540 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-24 23:45:40:4540 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=web development[39m
+2021-08-24 23:45:57:4557 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:45:58:4558 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-24 23:46:08:468 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-24 23:46:45:4645 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:46:46:4646 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 23:47:03:473 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 23:47:47:4747 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:47:48:4748 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': 'button[aria-label=Add a note]' is not a valid selector.[39m
+[31m    at predicateQueryHandler (eval at waitForPredicatePageFunction (:2:23), <anonymous>:5:68)[39m
+[31m    at predicate (eval at waitForPredicatePageFunction (:2:23), <anonymous>:23:26)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:26:11)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:27:7)[39m
+[31m    at pollMutation (__puppeteer_evaluation_script__:16:31)[39m
+[31m    at waitForPredicatePageFunction (__puppeteer_evaluation_script__:9:22)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 23:48:07:487 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-24 23:55:58:5558 [32minfo[39m: [32mOpening browser..[39m
+2021-08-24 23:55:59:5559 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-24 23:56:49:5649 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': 'button[aria-label=Send now]' is not a valid selector.[39m
+[31m    at predicateQueryHandler (eval at waitForPredicatePageFunction (:2:23), <anonymous>:5:68)[39m
+[31m    at predicate (eval at waitForPredicatePageFunction (:2:23), <anonymous>:23:26)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:26:11)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:27:7)[39m
+[31m    at pollMutation (__puppeteer_evaluation_script__:16:31)[39m
+[31m    at waitForPredicatePageFunction (__puppeteer_evaluation_script__:9:22)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-24 23:56:50:5650 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:00:41:041 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:00:42:042 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mwaiting for selector `#undefined` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:01:31:131 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:01:32:132 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:04:19:419 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:04:20:420 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': 'button[aria-label=Send now]' is not a valid selector.[39m
+[31m    at predicateQueryHandler (eval at waitForPredicatePageFunction (:2:23), <anonymous>:5:68)[39m
+[31m    at predicate (eval at waitForPredicatePageFunction (:2:23), <anonymous>:23:26)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:26:11)[39m
+[31m    at eval (eval at waitForPredicatePageFunction (:2:23), <anonymous>:27:7)[39m
+[31m    at pollMutation (__puppeteer_evaluation_script__:16:31)[39m
+[31m    at waitForPredicatePageFunction (__puppeteer_evaluation_script__:9:22)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:04:47:447 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:10:50:1050 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:10:51:1051 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:11:17:1117 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:13:17:1317 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:13:18:1318 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:13:40:1340 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:13:41:1341 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:14:30:1430 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:15:38:1538 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:15:39:1539 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:20:55:2055 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:20:56:2056 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:21:11:2111 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:21:12:2112 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:21:13:2113 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:21:13:2113 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:21:13:2113 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:21:35:2135 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:21:36:2136 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:21:47:2147 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:21:48:2148 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:22:51:2251 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:22:52:2252 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:23:59:2359 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:24:00:240 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:25:33:2533 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:26:06:266 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 30000ms exceeded[39m
+2021-08-25 00:36:29:3629 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:30:3630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:31:3631 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:56:3656 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:36:56:3656 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:39:10:3910 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:39:10:3910 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:39:26:3926 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:39:27:3927 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:39:28:3928 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:39:28:3928 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:39:28:3928 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:42:21:4221 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:42:22:4222 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:42:38:4238 [31merror[39m: [31mExecution context was destroyed, most likely because of a navigation.[39m
+2021-08-25 00:42:39:4239 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(3)[39m
+2021-08-25 00:42:39:4239 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(4)[39m
+2021-08-25 00:42:39:4239 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:42:40:4240 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:45:00:450 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:45:01:451 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:45:27:4527 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 00:45:28:4528 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 00:45:28:4528 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 00:45:28:4528 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 00:48:34:4834 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:48:35:4835 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:50:26:5026 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:50:27:5027 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:50:41:5041 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:42:5042 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:43:5043 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:43:5043 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:43:5043 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:50:44:5044 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:51:55:5155 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:51:56:5156 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:52:11:5211 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:12:5212 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:13:5213 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:14:5214 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:52:14:5214 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:20:5320 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 00:53:21:5321 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 00:53:35:5335 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:36:5336 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:37:5337 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:38:5338 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 00:53:38:5338 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:05:33:533 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:06:11:611 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:06:12:612 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:06:55:655 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:06:56:656 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:07:28:728 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:07:29:729 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:08:14:814 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:08:15:815 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:08:56:856 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:08:57:857 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:10:44:1044 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:10:45:1045 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:10:59:1059 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:01:111 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:02:112 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:03:113 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:03:113 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:11:03:113 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 01:15:39:1539 [35mhttp[39m: [35mOpening stealth browser..[39m
+2021-08-25 01:15:39:1539 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:15:47:1547 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:48:1548 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:49:1549 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:15:58:1558 [35mhttp[39m: [35mOpening stealth browser..[39m
+2021-08-25 01:15:58:1558 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 01:16:08:168 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:16:09:169 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at <anonymous>:1:33[39m
+2021-08-25 01:17:30:1730 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:18:07:187 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:18:07:187 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 01:18:18:1818 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-25 01:18:48:1848 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-25 01:18:48:1848 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=nodejs[39m
+2021-08-25 01:19:18:1918 [31merror[39m: [31mNavigation timeout of 30000 ms exceeded[39m
+2021-08-25 01:19:18:1918 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=nodejs[39m
+2021-08-25 01:19:35:1935 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 01:19:36:1936 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 01:19:46:1946 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=nodejs[39m
+2021-08-25 01:21:05:215 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=nodejs[39m
+2021-08-25 01:22:08:228 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=2&q=nodejs ... Sending custom questions as email.[39m
+2021-08-25 01:22:28:2228 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=nodejs[39m
+2021-08-25 01:35:52:3552 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=nodejs[39m
+2021-08-25 01:39:16:3916 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 01:41:59:4159 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=nodejs[39m
+2021-08-25 01:42:41:4241 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 01:43:43:4343 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=nodejs[39m
+2021-08-25 01:44:15:4415 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 01:44:15:4415 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web development[39m
+2021-08-25 01:48:40:4840 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=web development[39m
+2021-08-25 01:53:57:5357 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=web development[39m
+2021-08-25 01:55:11:5511 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=web%20development ... Sending custom questions as email.[39m
+2021-08-25 01:55:20:5520 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=web%20development ... Sending custom questions as email.[39m
+2021-08-25 01:56:04:564 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 01:56:46:5646 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: textarea[id=letter][39m
+2021-08-25 01:56:46:5646 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: #misra7662617[39m
+2021-08-25 01:56:46:5646 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=web development[39m
+2021-08-25 02:00:04:04 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=web%20development ... Sending custom questions as email.[39m
+2021-08-25 02:00:12:012 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=web%20development ... Sending custom questions as email.[39m
+2021-08-25 02:00:22:022 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=web%20development ... Sending custom questions as email.[39m
+2021-08-25 02:00:30:030 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=web%20development ... Sending custom questions as email.[39m
+2021-08-25 02:00:34:034 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=web development[39m
+2021-08-25 02:00:41:041 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=web%20development ... Sending custom questions as email.[39m
+2021-08-25 02:03:29:329 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `textarea[id=letter]` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:04:00:40 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7844546` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:04:31:431 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7800520` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:05:02:52 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7803359` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:05:33:533 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7805775` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:05:33:533 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=web development[39m
+2021-08-25 02:06:42:642 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843440` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:07:13:713 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843377` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:07:44:744 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7836838` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:08:15:815 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7819816` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:08:46:846 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7817543` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:09:53:953 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7839792` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:10:27:1027 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7841812` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:10:58:1058 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7841810` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:10:58:1058 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=web development[39m
+2021-08-25 02:12:43:1243 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 02:15:19:1519 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=web development[39m
+2021-08-25 02:15:51:1551 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:15:51:1551 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-25 02:16:24:1624 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJobundefined` failed: timeout 30000ms exceeded[39m
+2021-08-25 02:21:09:219 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=developer[39m
+2021-08-25 02:26:28:2628 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=developer[39m
+2021-08-25 02:29:50:2950 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 02:30:28:3028 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=developer[39m
+2021-08-25 02:34:45:3445 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=developer ... Sending custom questions as email.[39m
+2021-08-25 02:34:54:3454 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=developer ... Sending custom questions as email.[39m
+2021-08-25 02:34:57:3457 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=developer[39m
+2021-08-25 02:35:03:353 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=developer ... Sending custom questions as email.[39m
+2021-08-25 02:39:29:3929 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=developer[39m
+2021-08-25 02:44:16:4416 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=developer[39m
+2021-08-25 02:49:06:496 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=developer[39m
+2021-08-25 02:53:53:5353 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=9&q=developer[39m
+2021-08-25 02:54:37:5437 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 02:58:46:5846 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=10&q=developer[39m
+2021-08-25 03:03:35:335 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack[39m
+2021-08-25 03:05:06:56 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=1&q=fullstack ... Sending custom questions as email.[39m
+2021-08-25 03:06:13:613 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=fullstack[39m
+2021-08-25 03:11:26:1126 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=fullstack[39m
+2021-08-25 03:14:43:1443 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=fullstack ... Sending custom questions as email.[39m
+2021-08-25 03:15:51:1551 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=fullstack[39m
+2021-08-25 03:20:40:2040 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=fullstack[39m
+2021-08-25 03:23:17:2317 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=fullstack[39m
+2021-08-25 03:23:49:2349 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 03:23:49:2349 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=react[39m
+2021-08-25 03:28:09:289 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=react[39m
+2021-08-25 03:32:24:3224 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=2&q=react ... Sending custom questions as email.[39m
+2021-08-25 03:33:00:330 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=react[39m
+2021-08-25 03:36:02:362 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=react[39m
+2021-08-25 03:40:49:4049 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=react[39m
+2021-08-25 03:43:40:4340 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=react ... Sending custom questions as email.[39m
+2021-08-25 03:43:48:4348 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=react ... Sending custom questions as email.[39m
+2021-08-25 03:44:23:4423 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=react[39m
+2021-08-25 03:44:30:4430 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=6&q=react ... Sending custom questions as email.[39m
+2021-08-25 03:49:15:4915 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=react[39m
+2021-08-25 03:53:10:5310 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=react[39m
+2021-08-25 03:57:04:574 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=9&q=react[39m
+2021-08-25 04:01:27:127 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=10&q=react[39m
+2021-08-25 04:06:13:613 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=node.js[39m
+2021-08-25 04:09:03:93 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 04:10:36:1036 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=node.js[39m
+2021-08-25 04:11:13:1113 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=2&q=node.js ... Sending custom questions as email.[39m
+2021-08-25 04:14:34:1434 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=node.js[39m
+2021-08-25 04:17:52:1752 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=node.js ... Sending custom questions as email.[39m
+2021-08-25 04:18:58:1858 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=node.js[39m
+2021-08-25 04:23:19:2319 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=node.js[39m
+2021-08-25 04:26:20:2620 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=node.js[39m
+2021-08-25 04:27:02:272 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=6&q=node.js ... Sending custom questions as email.[39m
+2021-08-25 04:29:41:2941 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=node.js[39m
+2021-08-25 04:30:13:3013 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 04:30:13:3013 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=programming[39m
+2021-08-25 04:35:28:3528 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=programming[39m
+2021-08-25 04:40:16:4016 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=programming[39m
+2021-08-25 04:44:36:4436 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=programming[39m
+2021-08-25 04:49:23:4923 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=programming[39m
+2021-08-25 04:54:36:5436 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=programming[39m
+2021-08-25 04:59:48:5948 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=programming[39m
+2021-08-25 05:03:33:333 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=7&q=programming ... Sending custom questions as email.[39m
+2021-08-25 05:03:38:338 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=programming[39m
+2021-08-25 05:04:09:49 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 05:04:09:49 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=programmer[39m
+2021-08-25 05:05:48:548 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=1&q=programmer ... Sending custom questions as email.[39m
+2021-08-25 05:08:59:859 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=programmer[39m
+2021-08-25 05:14:13:1413 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=programmer[39m
+2021-08-25 05:15:21:1521 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=programmer ... Sending custom questions as email.[39m
+2021-08-25 05:19:05:195 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=programmer[39m
+2021-08-25 05:23:53:2353 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=programmer[39m
+2021-08-25 05:28:14:2814 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=programmer[39m
+2021-08-25 05:32:08:328 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=programmer[39m
+2021-08-25 05:36:54:3654 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=programmer[39m
+2021-08-25 05:42:07:427 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=9&q=programmer[39m
+2021-08-25 05:46:28:4628 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=10&q=programmer[39m
+2021-08-25 05:50:51:5051 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=code[39m
+2021-08-25 05:55:11:5511 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=code[39m
+2021-08-25 05:59:58:5958 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=code[39m
+2021-08-25 06:04:18:418 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=code[39m
+2021-08-25 06:08:40:840 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=code[39m
+2021-08-25 06:13:03:133 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=code[39m
+2021-08-25 06:17:53:1753 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=code[39m
+2021-08-25 06:22:46:2246 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=code[39m
+2021-08-25 06:28:06:286 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=9&q=code[39m
+2021-08-25 06:32:54:3254 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=10&q=code[39m
+2021-08-25 06:33:25:3325 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 06:33:25:3325 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=web dev[39m
+2021-08-25 06:35:04:354 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 06:35:05:355 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 06:35:05:355 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=web dev[39m
+2021-08-25 06:35:37:3537 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 06:35:37:3537 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=angular[39m
+2021-08-25 06:39:36:3936 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=angular[39m
+2021-08-25 06:44:56:4456 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=angular[39m
+2021-08-25 06:48:27:4827 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=angular[39m
+2021-08-25 06:49:43:4943 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=angular[39m
+2021-08-25 06:52:18:5218 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=angular ... Sending custom questions as email.[39m
+2021-08-25 06:52:23:5223 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=angular[39m
+2021-08-25 06:56:48:5648 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=angular[39m
+2021-08-25 07:00:20:020 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=angular[39m
+2021-08-25 07:02:02:22 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=8&q=angular ... Sending custom questions as email.[39m
+2021-08-25 07:02:10:210 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=8&q=angular ... Sending custom questions as email.[39m
+2021-08-25 07:02:18:218 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=8&q=angular ... Sending custom questions as email.[39m
+2021-08-25 07:02:28:228 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=8&q=angular ... Sending custom questions as email.[39m
+2021-08-25 07:02:36:236 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=8&q=angular ... Sending custom questions as email.[39m
+2021-08-25 07:03:17:317 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=9&q=angular[39m
+2021-08-25 07:07:42:742 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=10&q=angular[39m
+2021-08-25 07:11:13:1113 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=vue[39m
+2021-08-25 07:11:20:1120 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=1&q=vue ... Sending custom questions as email.[39m
+2021-08-25 07:14:48:1448 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=vue[39m
+2021-08-25 07:18:21:1821 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=vue[39m
+2021-08-25 07:22:41:2241 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=vue[39m
+2021-08-25 07:23:13:2313 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:23:13:2313 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=javascript[39m
+2021-08-25 07:23:56:2356 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=1&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:25:54:2554 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=javascript[39m
+2021-08-25 07:26:35:2635 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 07:29:00:290 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=javascript[39m
+2021-08-25 07:31:32:3132 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:32:08:328 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=javascript[39m
+2021-08-25 07:32:47:3247 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:32:55:3255 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:34:55:3455 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=javascript[39m
+2021-08-25 07:35:38:3538 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:35:47:3547 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:35:55:3555 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:36:04:364 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=5&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:36:48:3648 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 07:36:57:3657 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=javascript[39m
+2021-08-25 07:40:54:4054 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=javascript[39m
+2021-08-25 07:43:59:4359 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=7&q=javascript ... Sending custom questions as email.[39m
+2021-08-25 07:44:03:443 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=javascript[39m
+2021-08-25 07:47:35:4735 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=9&q=javascript[39m
+2021-08-25 07:51:07:517 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=10&q=javascript[39m
+2021-08-25 07:52:50:5250 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `.SaveButton` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:53:21:5321 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7797882` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:53:51:5351 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7768588` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:54:22:5422 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7691962` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:54:53:5453 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838058` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:55:24:5524 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7831593` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:55:55:5555 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7322540` failed: timeout 30000ms exceeded[39m
+2021-08-25 07:55:55:5555 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=node[39m
+2021-08-25 07:59:01:591 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=node[39m
+2021-08-25 07:59:39:5939 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=2&q=node ... Sending custom questions as email.[39m
+2021-08-25 08:02:10:210 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=node[39m
+2021-08-25 08:05:15:515 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=node[39m
+2021-08-25 08:05:25:525 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=node ... Sending custom questions as email.[39m
+2021-08-25 08:07:57:757 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=node[39m
+2021-08-25 08:10:36:1036 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=node[39m
+2021-08-25 08:12:08:128 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=6&q=node ... Sending custom questions as email.[39m
+2021-08-25 08:13:16:1316 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=7&q=node[39m
+2021-08-25 08:14:03:143 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=8&q=node[39m
+2021-08-25 08:14:34:1434 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 08:14:34:1434 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=mongoDB[39m
+2021-08-25 08:19:27:1927 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=mongoDB[39m
+2021-08-25 08:22:22:2222 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=2&q=mongoDB ... Sending custom questions as email.[39m
+2021-08-25 08:23:03:233 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=mongoDB[39m
+2021-08-25 08:27:29:2729 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=mongoDB[39m
+2021-08-25 08:31:46:3146 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=mongoDB[39m
+2021-08-25 08:32:17:3217 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 11:29:44:2944 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:29:45:2945 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:30:00:300 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:02:302 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:03:303 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:04:304 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:30:04:304 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:34:42:3442 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:34:43:3443 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:34:59:3459 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:01:351 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:02:352 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:03:353 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:41:3541 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:35:41:3541 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:35:56:3556 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:58:3558 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:35:59:3559 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:22:3622 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:36:23:3623 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:39:3639 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:40:3640 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:36:40:3640 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:32:3732 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:37:33:3733 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:37:47:3747 [31merror[39m: [31mEvaluation failed: DOMException: Failed to execute 'querySelector' on 'Document': '#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child([object Object])' is not a valid selector.[39m
+[31m    at __puppeteer_evaluation_script__:1:33[39m
+2021-08-25 11:38:14:3814 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:38:15:3815 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:38:43:3843 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:38:44:3844 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:39:33:3933 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:39:34:3934 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:40:19:4019 [35mhttp[39m: [35mSecond login was either unecessary or failed[39m
+2021-08-25 11:43:36:4336 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:43:37:4337 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:43:59:4359 [31merror[39m: [31mExecution context was destroyed, most likely because of a navigation.[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(5)[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(6)[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(7)[39m
+2021-08-25 11:44:00:440 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(8)[39m
+2021-08-25 11:44:01:441 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(9)[39m
+2021-08-25 11:45:01:451 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:45:02:452 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:45:34:4534 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 11:47:35:4735 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:47:35:4735 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:47:51:4751 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 11:49:53:4953 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:49:54:4954 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:50:10:5010 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 11:53:42:5342 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 11:53:43:5343 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 11:53:59:5359 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 12:00:07:07 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:00:08:08 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:00:23:023 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 12:08:23:823 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:08:24:824 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:08:40:840 [31merror[39m: [31mMaximum call stack size exceeded[39m
+2021-08-25 12:09:17:917 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:09:17:917 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:09:48:948 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 12:10:04:104 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:10:05:105 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:10:38:1038 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 12:13:57:1357 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:13:57:1357 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:14:09:149 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:14:09:149 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:14:40:1440 [31merror[39m: [31mNavigation timeout of 15000 ms exceeded[39m
+2021-08-25 12:15:36:1536 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:15:37:1537 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:16:13:1613 [35mhttp[39m: [35mCould not send connection invite waiting for selector `textarea[name=message]` failed: timeout 15000ms exceeded[39m
+2021-08-25 12:16:13:1613 [31merror[39m: [31mNo node found for selector: #main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)[39m
+2021-08-25 12:47:06:476 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:47:06:476 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:47:37:4737 [35mhttp[39m: [35mCould not send connection invite waiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 12:47:47:4747 [31merror[39m: [31mundefinedwaiting for selector `#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)` failed: timeout 10000ms exceeded[39m
+2021-08-25 12:47:57:4757 [31merror[39m: [31mNavigation timeout of 10000 ms exceeded[39m
+2021-08-25 12:57:13:5713 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:57:14:5714 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:57:38:5738 [31merror[39m: [31mwaiting for selector `#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(0)` failed: timeout 10000ms exceeded[39m
+2021-08-25 12:57:50:5750 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:57:51:5751 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:59:20:5920 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 12:59:21:5921 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 12:59:38:5938 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 12:59:48:5948 [31merror[39m: [31mwaiting for selector `#main > div > div > div.ph0.pv2.artdeco-card.mb2 > ul > li:nth-child(2)` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:00:11:011 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:00:12:012 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:00:31:031 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 13:01:00:10 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:01:01:11 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:01:17:117 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 13:01:55:155 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:01:56:156 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:02:14:214 [31merror[39m: [31mFound non-callable @@iterator[39m
+2021-08-25 13:15:40:1540 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:15:40:1540 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:15:54:1554 [31merror[39m: [31mCannot read property 'waitForSelector' of undefined[39m
+2021-08-25 13:16:33:1633 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:16:33:1633 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:17:03:173 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:18:05:185 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:18:06:186 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:18:37:1837 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:19:14:1914 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:19:15:1915 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:19:47:1947 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:19:48:1948 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:20:18:2018 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:20:34:2034 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:20:49:2049 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:21:40:2140 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:21:53:2153 [31merror[39m: [31mwaiting for selector `button[data-control-name=connect]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:23:14:2314 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:23:15:2315 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:23:48:2348 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:23:49:2349 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:24:05:245 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:24:06:246 [32minfo[39m: [32mNavigating to LinkedIn login link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:24:37:2437 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:24:53:2453 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:25:09:259 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 13:56:02:562 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:56:03:563 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:56:47:5647 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:56:48:5648 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:58:17:5817 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:58:18:5818 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 13:59:39:5939 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 13:59:40:5940 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:00:32:032 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:00:33:033 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:10:10:1010 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:10:11:1011 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:11:37:1137 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:11:38:1138 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:12:53:1253 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:12:54:1254 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:14:35:1435 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:14:35:1435 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:16:14:1614 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:16:15:1615 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:16:52:1652 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:16:53:1653 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:17:15:1715 [35mhttp[39m: [35mConnection failed, check for security checks...[39m
+2021-08-25 14:18:25:1825 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:18:26:1826 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:18:41:1841 [35mhttp[39m: [35mConnection failed, check for security checks...[39m
+2021-08-25 14:18:45:1845 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:18:46:1846 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:19:08:198 [35mhttp[39m: [35mConnection failed, check for security checks...[39m
+2021-08-25 14:26:30:2630 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:26:31:2631 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:26:52:2652 [35mhttp[39m: [35mConnection failed, checking for security checks...[39m
+2021-08-25 14:27:39:2739 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:27:40:2740 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:28:01:281 [35mhttp[39m: [35mConnection failed, checking for security checks...[39m
+2021-08-25 14:28:30:2830 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:28:31:2831 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:28:53:2853 [35mhttp[39m: [35mConnection failed, checking for security checks...[39m
+2021-08-25 14:29:26:2926 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:29:27:2927 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:30:13:3013 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:30:14:3014 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:30:57:3057 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:30:58:3058 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:31:12:3112 [35mhttp[39m: [35mSecurity check detected, sending screenshot as email..[39m
+2021-08-25 14:35:13:3513 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:35:14:3514 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:35:27:3527 [35mhttp[39m: [35mSecurity check detected, sending screenshot as email..[39m
+2021-08-25 14:41:15:4115 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:41:16:4116 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:41:29:4129 [35mhttp[39m: [35mSecurity check detected, sending screenshot as email..[39m
+2021-08-25 14:41:38:4138 [35mhttp[39m: [35mConnection failed, checking for security checks...[39m
+2021-08-25 14:42:22:4222 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:42:23:4223 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 14:42:35:4235 [35mhttp[39m: [35mSecurity check detected, sending screenshot as email..[39m
+2021-08-25 14:42:43:4243 [35mhttp[39m: [35mConnection failed, checking for security checks...[39m
+2021-08-25 14:52:24:5224 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:52:25:5225 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 14:52:49:5249 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:52:50:5250 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 14:52:56:5256 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 14:55:26:5526 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:55:26:5526 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 14:55:37:5537 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 14:55:44:5544 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-25 14:56:15:5615 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:56:23:5623 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 14:56:23:5623 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 14:56:34:5634 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 14:56:41:5641 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-25 14:57:12:5712 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:57:43:5743 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7756184` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:58:14:5814 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7811465` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:58:44:5844 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7791707` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:59:15:5915 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846598` failed: timeout 30000ms exceeded[39m
+2021-08-25 14:59:46:5946 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7765843` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:00:17:017 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846106` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:00:48:048 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7842387` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:01:19:119 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843435` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:01:19:119 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=frontend[39m
+2021-08-25 15:01:32:132 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:01:33:133 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:01:43:143 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:01:50:150 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: No node found for selector: div[class=editOptions][39m
+2021-08-25 15:02:21:221 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:04:38:438 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:04:38:438 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:04:50:450 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:04:56:456 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:05:26:526 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `.SaveButton` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:05:57:557 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7838082` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:06:28:628 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7756184` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:06:59:659 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7811465` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:07:29:729 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7791707` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:08:00:80 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846598` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:08:31:831 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7765843` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:09:02:92 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7846106` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:09:33:933 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7842387` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:10:04:104 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJob7843435` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:10:04:104 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=frontend[39m
+2021-08-25 15:10:10:1010 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:12:58:1258 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:12:59:1259 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:13:10:1310 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:13:17:1317 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:14:06:146 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:14:07:147 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:14:18:1418 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:14:24:1424 [31merror[39m: [31mNo node found for selector: div[class=editOptions][39m
+2021-08-25 15:14:54:1454 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `.SaveButton` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:15:22:1522 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:15:23:1523 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:15:33:1533 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:30:53:3053 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:30:54:3054 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:31:05:315 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:32:34:3234 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:32:34:3234 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:32:45:3245 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:34:22:3422 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:34:22:3422 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:34:33:3433 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:37:25:3725 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:37:26:3726 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:37:37:3737 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:39:34:3934 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:39:35:3935 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:39:46:3946 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:41:02:412 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=frontend[39m
+2021-08-25 15:42:22:4222 [31merror[39m: [31mNode is either not visible or not an HTMLElement[39m
+2021-08-25 15:42:23:4223 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Error: failed to find element matching selector "div[class=jobHead__text__titleAndCompName]"[39m
+2021-08-25 15:43:37:4337 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 15:43:37:4337 [32minfo[39m: [32mNavigating to Jobmaster login link, url: https://account.jobmaster.co.il/?isMobileApp=&isIphoneApp=&isAndroidApp=&r=https%3A%2F%2Fpeople%2Ejobmaster%2Eco%2Eil%2Fcode%2Fprofile%2Dpersonal%2FMyAccountMenu%2Easp;[39m
+2021-08-25 15:43:50:4350 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=frontend[39m
+2021-08-25 15:44:50:4450 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=frontend[39m
+2021-08-25 15:48:24:4824 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=frontend[39m
+2021-08-25 15:51:03:513 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=frontend[39m
+2021-08-25 15:54:51:5451 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=5&q=frontend[39m
+2021-08-25 15:56:05:565 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 15:56:07:567 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: Node is either not visible or not an HTMLElement[39m
+2021-08-25 15:56:07:567 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=6&q=frontend[39m
+2021-08-25 15:56:38:5638 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 15:56:38:5638 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=back end[39m
+2021-08-25 15:59:44:5944 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=back end[39m
+2021-08-25 16:03:09:39 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=back end[39m
+2021-08-25 16:03:41:341 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
+2021-08-25 16:03:41:341 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=1&q=developer[39m
+2021-08-25 16:04:14:414 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJobundefined` failed: timeout 30000ms exceeded[39m
+2021-08-25 16:08:13:813 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=2&q=developer[39m
+2021-08-25 16:11:47:1147 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=3&q=developer[39m
+2021-08-25 16:11:53:1153 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=developer ... Sending custom questions as email.[39m
+2021-08-25 16:12:07:127 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=developer ... Sending custom questions as email.[39m
+2021-08-25 16:14:35:1435 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=developer[39m
+2021-08-25 16:14:47:1447 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=developer ... Sending custom questions as email.[39m
