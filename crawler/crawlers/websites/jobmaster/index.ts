@@ -21,7 +21,7 @@ export const jobmaster = async () => {
   await actions.loginToJobmaster(page);
   for (let i = 0; i < args.jobKeyWords.length; i++) {
     const keyword = args.jobKeyWords[i];
-    for (let i = 1; i < 12; i++) {
+    for (let i = 1; i < 11; i++) {
       const pageNumber = i;
       try {
         const jobmasterJobsearchLink = `https://www.jobmaster.co.il/jobs/?currPage=${pageNumber}&q=${keyword}`;
@@ -37,7 +37,7 @@ export const jobmaster = async () => {
           message ===
           "waiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded"
         ) {
-          return;
+          i = 13;
         }
         Logger.error(message);
       }
