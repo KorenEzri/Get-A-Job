@@ -4,4 +4,5 @@ const getRandomNumber = (maxValue: number) => {
 };
 
 // linkedIn.addConnections(getRandomNumber(22));
-jobmaster();
+linkedIn.collectJobApplicationLinks(getRandomNumber(22));
+// jobmaster();

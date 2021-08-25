@@ -1,28 +1,26 @@
-import Logger from "../../../logger/logger";
 import { addConnections } from "./linkedin-connections";
 import {
   linkedInConnectionsLoginLink,
   loginToLinkedIn,
-  linkedInJobsLoginLink,
   initLinkedInCrawler,
+  linkedInJobsLink,
   checkForSecurityCheck,
   initStealthLinkedInCraweler,
 } from "./linkedin-utils";
 import { sleep, withTryCatch } from "../../utils";
+import { collectJobApplicationLinks } from "./linkedin-jobs";
 
 export const linkedIn = {
   addConnections: async (count: number) => {
-    const { page, browser } = await withTryCatch(
+    const { page } = await withTryCatch(
       initStealthLinkedInCraweler,
       [linkedInConnectionsLoginLink],
       true
     );
-    if (!page) return;
     await loginToLinkedIn(page);
     const isCaptcha = await checkForSecurityCheck(page);
     if (isCaptcha) {
-      await page.close();
-      await browser.close();
+      sleep(16000);
     }
     const res = await addConnections(page, count);
     if (res === "OK") {
@@ -31,12 +29,21 @@ export const linkedIn = {
     }
   },
   sendJobApplications: async (count: number) => {
-    const page = await withTryCatch(
+    const { page } = await withTryCatch(
       initLinkedInCrawler,
-      [linkedInJobsLoginLink],
+      [linkedInJobsLink],
       true
     );
     if (!page) return;
-    await loginToLinkedIn(page);
+    // await loginToLinkedIn(page);
+  },
+  collectJobApplicationLinks: async (count: number) => {
+    const { page } = await withTryCatch(
+      initLinkedInCrawler,
+      [linkedInJobsLink],
+      true
+    );
+    if (!page) return;
+    await collectJobApplicationLinks(page);
   },
 };

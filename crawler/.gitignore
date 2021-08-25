@@ -3,3 +3,5 @@ node_modules
 logs
 images
 jobs.csv
+jobs.txt
+joblinks.json

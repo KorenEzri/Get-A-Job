@@ -1,6 +1,6 @@
 import fs from "fs";
 import { promisify } from "util";
-import { Job } from "../../types";
+import { Job } from "../../../types";
 const write = promisify(fs.writeFile);
 
 const convertToCSV = (array: Job[]) => {
@@ -14,5 +14,7 @@ const convertToCSV = (array: Job[]) => {
 
 export const writeToCSV = async (array: any[]) => {
   const csvFormat = convertToCSV(array);
-  await write("./jobs.csv", csvFormat, { flag: "a+" });
+  await write("saved-data/jobMaster/jobs.csv", csvFormat, {
+    flag: "a+",
+  });
 };

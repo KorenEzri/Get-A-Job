@@ -9,12 +9,14 @@ import Logger from "../logger/logger";
 //   "--ignore-certifcate-errors-spki-list",
 //   '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"',
 // ];
+
 export const startBrowser = async (): Promise<
   puppeteer.Browser | undefined
 > => {
   try {
     Logger.info("Opening browser..");
     const browser = await puppeteer.launch({
+      // args: ["--proxy-server=http://10.10.10.10:8000"],
       headless: false,
       slowMo: 50,
       ignoreHTTPSErrors: true,

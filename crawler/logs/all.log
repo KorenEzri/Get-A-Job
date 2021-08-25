@@ -1773,3 +1773,91 @@
 2021-08-25 16:12:07:127 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=3&q=developer ... Sending custom questions as email.[39m
 2021-08-25 16:14:35:1435 [32minfo[39m: [32mNavigating to Jobmaster jobsearch link, url: https://www.jobmaster.co.il/jobs/?currPage=4&q=developer[39m
 2021-08-25 16:14:47:1447 [35mhttp[39m: [35mCustom questions detected for page https://www.jobmaster.co.il/jobs/?currPage=4&q=developer ... Sending custom questions as email.[39m
+2021-08-25 16:21:11:2111 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 16:21:12:2112 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 16:21:24:2124 [35mhttp[39m: [35mSecurity check detected, sending screenshot as email..[39m
+2021-08-25 16:27:31:2731 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 16:27:32:2732 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 16:27:32:2732 [31merror[39m: [31mnet::ERR_INVALID_ARGUMENT at https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in[39m
+2021-08-25 16:35:32:3532 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 16:35:33:3533 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 16:35:33:3533 [31merror[39m: [31mnet::ERR_INVALID_ARGUMENT at https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in[39m
+2021-08-25 16:39:34:3934 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 16:39:35:3935 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 16:39:45:3945 [31merror[39m: [31mNavigation timeout of 10000 ms exceeded[39m
+2021-08-25 16:39:56:3956 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 16:39:57:3957 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in;[39m
+2021-08-25 16:40:09:409 [35mhttp[39m: [35mSecurity check detected, sending screenshot as email..[39m
+2021-08-25 16:40:42:4042 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 16:40:58:4058 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 16:41:14:4114 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 17:12:23:1223 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:12:24:1224 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:13:33:1333 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:13:34:1334 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:13:36:1336 [31merror[39m: [31mpage.waitForSelector is not a function[39m
+2021-08-25 17:15:28:1528 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:15:29:1529 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:15:32:1532 [31merror[39m: [31mpage.waitForSelector is not a function[39m
+2021-08-25 17:16:57:1657 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:16:58:1658 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:17:22:1722 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:17:23:1723 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:47:28:4728 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:47:28:4728 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:47:31:4731 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:47:31:4731 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:51:17:5117 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:51:18:5118 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:51:20:5120 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:51:20:5120 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:52:42:5242 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:52:43:5243 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:52:45:5245 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:52:45:5245 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:56:19:5619 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:56:20:5620 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:56:23:5623 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:56:59:5659 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:57:00:570 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:57:12:5712 [31merror[39m: [31mwaiting for selector `#main-content > section.two-pane-serp-page__results-list > ul > li:nth-child(1)` failed: timeout 10000ms exceeded[39m
+2021-08-25 17:57:16:5716 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:57:16:5716 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:57:36:5736 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:57:37:5737 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:57:43:5743 [32minfo[39m: [32mSaving 0 job links...[39m
+2021-08-25 17:57:43:5743 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:58:45:5845 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 17:58:46:5846 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 17:59:00:590 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:08:598 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:12:5912 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:16:5916 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:32:5932 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:35:5935 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:39:5939 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:47:5947 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:55:5955 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:59:5959 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 18:00:26:026 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 18:00:30:030 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 18:00:42:042 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:42:042 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:45:045 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:45:045 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:48:048 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:48:048 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:51:051 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:51:051 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:02:24:224 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 18:02:25:225 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 18:05:23:523 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 18:05:24:524 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 18:05:45:545 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 18:05:46:546 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 18:06:48:648 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 18:06:49:649 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 18:06:55:655 [32minfo[39m: [32mOpening browser..[39m
+2021-08-25 18:06:56:656 [32minfo[39m: [32mNavigating to LinkedIn link, url: https://www.linkedin.com/jobs/search?keywords=Fullstack&location=Israel&geoId=101620260&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0;[39m
+2021-08-25 18:07:34:734 [32minfo[39m: [32mSaving 6 job links...[39m
+2021-08-25 18:08:17:817 [32minfo[39m: [32mSaving 6 job links...[39m

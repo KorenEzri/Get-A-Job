@@ -617,3 +617,34 @@
 2021-08-25 15:56:38:5638 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
 2021-08-25 16:03:41:341 [31merror[39m: [31mwaiting for selector `div[class=misrotList]` failed: timeout 30000ms exceeded[39m
 2021-08-25 16:04:14:414 [31merror[39m: [31mIn sendApplications() at jobmaster-actions.ts, line ~37: waiting for selector `#applyJobundefined` failed: timeout 30000ms exceeded[39m
+2021-08-25 16:27:32:2732 [31merror[39m: [31mnet::ERR_INVALID_ARGUMENT at https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in[39m
+2021-08-25 16:35:33:3533 [31merror[39m: [31mnet::ERR_INVALID_ARGUMENT at https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in[39m
+2021-08-25 16:39:45:3945 [31merror[39m: [31mNavigation timeout of 10000 ms exceeded[39m
+2021-08-25 16:40:42:4042 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 16:40:58:4058 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 16:41:14:4114 [31merror[39m: [31mwaiting for selector `textarea[name=message]` failed: timeout 10000ms exceeded[39m
+2021-08-25 17:13:36:1336 [31merror[39m: [31mpage.waitForSelector is not a function[39m
+2021-08-25 17:15:32:1532 [31merror[39m: [31mpage.waitForSelector is not a function[39m
+2021-08-25 17:57:12:5712 [31merror[39m: [31mwaiting for selector `#main-content > section.two-pane-serp-page__results-list > ul > li:nth-child(1)` failed: timeout 10000ms exceeded[39m
+2021-08-25 17:57:16:5716 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:57:43:5743 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:00:590 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:08:598 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:12:5912 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:16:5916 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:32:5932 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:35:5935 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:39:5939 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:47:5947 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:55:5955 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 17:59:59:5959 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 18:00:26:026 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 18:00:30:030 [31merror[39m: [31mCannot read property 'getProperty' of undefined[39m
+2021-08-25 18:00:42:042 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:42:042 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:45:045 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:45:045 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:48:048 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:48:048 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:51:051 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m
+2021-08-25 18:00:51:051 [31merror[39m: [31mProtocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.[39m

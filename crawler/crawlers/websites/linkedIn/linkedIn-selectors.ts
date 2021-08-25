@@ -1,4 +1,4 @@
-export const selectors = {
+export const connectionSelectors = {
   emailInputSelector: "input[id=username]",
   passwordInputSelector: "input[id=password]",
   connectButtons: "span[class=artdeco-button__text]",
@@ -8,4 +8,8 @@ export const selectors = {
   sendInvitationBtnText: "Send",
   alreadyInvitedText: "Pending",
   followText: "Follow",
+};
+export const jobSelectors = {
+  jobList: "ul[class=jobs-search__results-list]",
+  applyOnCompanyWebsiteTextSelector: "Apply on company website",
 };
