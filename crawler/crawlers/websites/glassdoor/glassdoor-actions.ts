@@ -1,7 +1,7 @@
 import puppeteer from "puppeteer";
 import dotenv from "dotenv";
 import { selectors } from "./glassdoor-selectors";
-import * as utils from "../../utils";
+import * as utils from "../../scrape-utils";
 dotenv.config();
 
 const userPassword = process.env.USER_PASSWORD || "";

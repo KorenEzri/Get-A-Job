@@ -1,5 +1,5 @@
 import puppeteer from "puppeteer";
-import { withTryCatch } from "../../../utils";
+import { withTryCatch } from "../../../scrape-utils";
 import {
   checkIfInviteIsBlocked,
   clickUserProfile,

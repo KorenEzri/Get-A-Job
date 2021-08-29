@@ -4,11 +4,6 @@ import { promisify } from "util";
 const write = promisify(fs.writeFile);
 const read = promisify(fs.readFile);
 
-export const writeToJson = async (data: Job) => {
-  await write("saved-data/jobMaster/jobs.txt", JSON.stringify(data), {
-    flag: "a+",
-  });
-};
 export const appendToJsonArray = async (
   content: string | string[],
   path: string,

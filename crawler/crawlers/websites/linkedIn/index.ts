@@ -2,12 +2,11 @@ import { addConnections } from "./linkedin-connections";
 import {
   linkedInConnectionsLoginLink,
   loginToLinkedIn,
-  initLinkedInCrawler,
   linkedInJobsLink,
   checkForSecurityCheck,
   initStealthLinkedInCraweler,
 } from "./linkedin-utils";
-import { sleep, withTryCatch } from "../../utils";
+import { initializeCrawler, sleep, withTryCatch } from "../../scrape-utils";
 import { collectJobApplicationLinks } from "./linkedin-jobs";
 
 export const linkedIn = {
@@ -28,22 +27,21 @@ export const linkedIn = {
       await linkedIn.addConnections(Math.floor(Math.random() * 22) + 1);
     }
   },
-  sendJobApplications: async (count: number) => {
+  collectJobApplicationLinks: async () => {
     const { page } = await withTryCatch(
-      initLinkedInCrawler,
-      [linkedInJobsLink],
-      true
-    );
-    if (!page) return;
-    // await loginToLinkedIn(page);
-  },
-  collectJobApplicationLinks: async (count: number) => {
-    const { page } = await withTryCatch(
-      initLinkedInCrawler,
+      initializeCrawler,
       [linkedInJobsLink],
       true
     );
     if (!page) return;
     await collectJobApplicationLinks(page);
   },
+  // sendJobApplications: async (count: number) => {
+  //   const { page } = await withTryCatch(
+  //     initLinkedInCrawler,
+  //     [linkedInJobsLink],
+  //     true
+  //   );
+  //   if (!page) return;
+  // },
 };

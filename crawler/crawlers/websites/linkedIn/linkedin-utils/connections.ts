@@ -3,7 +3,7 @@ import UserAgent from "user-agents";
 import dotenv from "dotenv";
 import { v4 as uuidv4 } from "uuid";
 import Logger from "../../../../logger/logger";
-import { startBrowser } from "../../../start-browser";
+import { startBrowser } from "../../../scrape-utils/start-browser";
 import { connectionSelectors } from "../linkedIn-selectors";
 import {
   clickElement,
@@ -14,7 +14,7 @@ import {
   checkIfElementExistsByText,
   takeScreenshot,
   sendMail,
-} from "../../../utils";
+} from "../../../scrape-utils";
 
 export const linkedInConnectionsLoginLink =
   "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3Fsid%3DPKb&fromSignIn=true&trk=cold_join_sign_in";
@@ -72,26 +72,6 @@ export const initStealthLinkedInCraweler = async (address: string) => {
   // await page.setExtraHTTPHeaders({
   //   "Proxy-Authorization": "Basic " + Buffer.from(":").toString("base64"),
   // });
-  page.setDefaultTimeout(10000);
-  if (!page) {
-    Logger.error("Error occured, aborting..");
-  }
-  Logger.info(`Navigating to LinkedIn link, url: ${address};`);
-  await page.goto(address, {
-    waitUntil: "networkidle2",
-  });
-  return { page, browser };
-};
-export const initLinkedInCrawler = async (address: string) => {
-  const userAgent = new UserAgent();
-  const browser = await startBrowser();
-  if (!browser) return;
-  const page = await browser.newPage();
-  await page.setUserAgent(userAgent.toString());
-  await page.setViewport({
-    width: 1200,
-    height: 1000,
-  });
   page.setDefaultTimeout(10000);
   if (!page) {
     Logger.error("Error occured, aborting..");

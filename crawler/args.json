@@ -2,12 +2,17 @@
   "websiteName": "glassdoor",
   "websiteURL": "https://www.glassdoor.com/",
   "jobKeyWords": [
-    "programmer",
-    "node.js",
-    "web dev",
-    "programming",
+    "GraphQL",
+    "graphql",
+    "graphQL",
+    "puppeteer",
+    "typescript",
+    "Typescript",
+    "npm",
+    "webdev",
     "nodejs",
     "code",
+    "fullstack development",
     "web development",
     "angular",
     "vue",
@@ -18,8 +23,12 @@
     "backend",
     "react",
     "front end",
+    "node.js",
+    "web dev",
     "frontend",
     "back end",
-    "developer"
+    "developer",
+    "programming",
+    "programmer"
   ]
 }

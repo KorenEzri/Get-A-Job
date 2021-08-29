@@ -3,5 +3,11 @@ node_modules
 logs
 images
 jobs.csv
+jobs.json
 jobs.txt
 joblinks.json
+crawler\logs
+all.log
+error.log
+.log
+assets

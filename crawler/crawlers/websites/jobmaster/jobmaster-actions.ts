@@ -1,7 +1,7 @@
 import puppeteer from "puppeteer";
 import dotenv from "dotenv";
 import { selectors } from "./jobmaster-selectors";
-import * as utils from "../../utils";
+import * as utils from "../../scrape-utils";
 import Logger from "../../../logger/logger";
 import {
   checkIfSentOverThreeTimes,
@@ -35,7 +35,6 @@ export const sendApplications = async (page: puppeteer.Page) => {
       await handleApplicationModal(page);
       const jobData = await collectJobData(page);
       await utils.writeToCSV(jobData);
-      await utils.writeToJson(jobData[0]);
     } catch ({ message }) {
       Logger.error(
         `In sendApplications() at jobmaster-actions.ts, line ~37: ${message}`

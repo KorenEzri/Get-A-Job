@@ -1,5 +1,5 @@
 import puppeteer from "puppeteer";
-import { sleep } from "./";
+import { sleep } from ".";
 export const fillInputField = async (
   selector: string,
   value: string,

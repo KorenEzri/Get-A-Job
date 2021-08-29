@@ -9,7 +9,7 @@ import {
   sendMail,
   withTryCatch,
   getTextContentForJson,
-} from "../../../utils";
+} from "../../../scrape-utils";
 import { selectors } from "../jobmaster-selectors";
 import Logger from "../../../../logger/logger";
 
@@ -102,21 +102,33 @@ export const handleApplicationModal = async (page: puppeteer.Page) => {
   await clickElement(selectors.sendApplicationButton, page);
 };
 export const collectJobData = async (page: puppeteer.Page) => {
-  const jobData = {
-    Title: await getTextContentForJson(selectors.jobTitleSelector, page),
-    Location: await getTextContentForJson(selectors.jobLocationSelector, page),
-    Type: await getTextContentForJson(selectors.jobTypeSelector, page),
-    Salary: await getTextContentForJson(selectors.jobSalarySelector, page),
-    Description: await getTextContentForJson(
-      selectors.jobDescriptionSelector,
-      page
-    ),
-    Requirements: await getTextContentForJson(
-      selectors.jobRequirementsSelector,
-      page
-    ),
-    "Date sent": `${new Date()}`,
-  };
+  // const jobData = {
+  //   Title:
+  //     (await getTextContentForJson(selectors.jobTitleSelector, page)) || "N/A",
+  //   Location:
+  //     (await getTextContentForJson(selectors.jobLocationSelector, page)) ||
+  //     "N/A",
+  //   Type:
+  //     (await getTextContentForJson(selectors.jobTypeSelector, page)) || "N/A",
+  //   Salary:
+  //     (await getTextContentForJson(selectors.jobSalarySelector, page)) || "N/A",
+  //   Description:
+  //     (await getTextContentForJson(selectors.jobDescriptionSelector, page)) ||
+  //     "N/A",
+  //   Requirements:
+  //     (await getTextContentForJson(selectors.jobRequirementsSelector, page)) ||
+  //     "N/A",
+  //   "Date sent": `${new Date()}`,
+  // };
+  // return [jobData];
+  const jobData =
+    (await getTextContentForJson(selectors.jobTitleSelector, page)) +
+    (await getTextContentForJson(selectors.jobLocationSelector, page)) +
+    (await getTextContentForJson(selectors.jobTypeSelector, page)) +
+    (await getTextContentForJson(selectors.jobSalarySelector, page)) +
+    (await getTextContentForJson(selectors.jobDescriptionSelector, page)) +
+    (await getTextContentForJson(selectors.jobRequirementsSelector, page)) +
+    `${new Date()}`;
   return [jobData];
 };
 

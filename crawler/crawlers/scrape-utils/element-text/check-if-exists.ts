@@ -1,5 +1,6 @@
 import puppeteer from "puppeteer";
-export const getElementAttrByTxt = async (
+
+export const checkIfElementExistsByText = async (
   elementType: string,
   containsText: string,
   page: puppeteer.Page
@@ -7,5 +8,5 @@ export const getElementAttrByTxt = async (
   const [element] = await page.$x(
     `//${elementType}[contains(., '${containsText}')]`
   );
-  return await element.getProperty("href");
+  return element ? true : false;
 };

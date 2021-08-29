@@ -1,5 +1,5 @@
 import Logger from "../../../logger/logger";
-import { startBrowser } from "../../start-browser";
+import { startBrowser } from "../../scrape-utils/start-browser";
 import * as actions from "./jobmaster-actions";
 import args from "../../../args.json";
 

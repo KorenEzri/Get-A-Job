@@ -8,3 +8,4 @@ export * from "./with-try-catch";
 export * from "./write/write-to-json";
 export * from "./element-text";
 export * from "./write";
+export * from "./start-browser";
