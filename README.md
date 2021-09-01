@@ -9,18 +9,6 @@
 
   <h1 allign="center">WARNING: Using automated bots is not allowed in most websites, especially LinkedIn. Using this bot is AT YOUR OWN RISK. Your account can be deleted, suspended, etc.</h1>
 
-  <p align="center">
-    <h2 align="center"><a href="https://www.youtube.com/watch?v=Q1saelQOqNM&t=5s">Quick video introduction</a></h2>
-    <br />
-    <br />
-    <p align="center">
-    <a href="https://github.com/KorenEzri/Get-A-Job/blob/master/__tests__/middleware.test.ts">View Examples</a>
-    ·
-    <a href="https://github.com/KorenEzri/Get-A-Job/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/KorenEzri/Get-A-Job/issues">Request Feature</a>
-  </p>
-  </p>
 </p>
 <p align="center">
   <img src="https://github.com/KorenEzri/Get-A-Job/blob/main/pythonlinkedinbot1.PNG?raw=true"/>
@@ -35,7 +23,6 @@
       <li>
       <a href="#motivation">Motivation</a>
     </li>
-    <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -54,14 +41,14 @@ It's just easier to automate this process.
 
 ## Usage
 
-- For the LinkedIn bot: 
+#  For the LinkedIn bot: 
  1. Download python
  2. Install dependencies: ``` pip3 install -r requirements.txt ``` in the CLI
  3. Inside ``` python/linekdIn-easy-apply/assets ``` create a ``` config.yaml ``` file, and fill it according to the ``` config.example.yaml ``` file found inside ``` python/linkedIn-easy-apply ``` 
  4. In the CLI type: ``` cd python ``` , ``` cd linkedin-easy-apply ``` , ``` python3 easy-apply.py ```
  5. profit!
  
- - For the jobMaster bot:
+#  For the jobMaster bot:
  1. In the CLI type: ``` cd typescript ``` ,  ``` cd crawler ``` , install dependencies with ``` npm i ```
  2. Go to ``` typescript/crawler/index.ts ``` and uncomment the jobmaster() function. 
  3. In the CLI type: ``` npm start ``` 
