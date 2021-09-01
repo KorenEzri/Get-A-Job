@@ -1,0 +1,67 @@
+username:
+password:
+
+positions:
+  - Fullstack
+  - fullstack
+  - full stack
+  - web developement
+  - webdev
+  - front-end
+  - front end
+  - frontend
+  - back-end
+  - backend
+  - back end
+  - react
+  - javascript
+  - typescript
+  - mongoDB
+  - mongo
+  - SQL
+  - puppeteer
+  - node
+  - nodejs
+  - node.js
+  - graphql
+  - graphQL
+
+locations:
+  - Tel Aviv
+  - TLV
+  - Israel
+  - Israel
+  - Tel-Aviv-Jafo
+  - Tel-Aviv
+  - Israel
+  - Israel
+  - Modiin
+  - Raanana
+  - Kfar-Sava
+  - Kfar Saba
+  - Israel
+  - Israel
+  - Kfar Sava
+  - Kfar-Saba
+  - Ha Merkaz
+  - Ha Sharon
+  - Petah Tikwa
+  - Petah Tikva
+  - Remote
+  - Israel
+  - Israel
+  - Israel
+  - Israel
+  - Israel
+  - Israel
+
+# --------- Optional Parameters -------
+uploads:
+  Resume:
+  Cover Letter:
+  City:
+#  Photo: # PATH TO photo
+
+output_filename: output.csv
+# blacklist:
+# - # Company names you want to ignore

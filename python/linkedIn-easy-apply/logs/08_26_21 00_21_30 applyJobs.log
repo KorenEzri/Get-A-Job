@@ -1,0 +1,93 @@
+./logs/26-Aug-21 00:21:30::__main__::INFO::Welcome to Easy Apply Bot
+
+./logs/26-Aug-21 00:21:30::__main__::INFO::current directory is : C:\Users\Koren\Desktop\Job-Application-Bot-master
+./logs/26-Aug-21 00:21:30::__main__::INFO::72 jobIDs found
+./logs/26-Aug-21 00:21:30::__main__::INFO::Logging in.....Please wait :)  
+./logs/26-Aug-21 00:21:39::__main__::INFO::Applying to graphQL: Israel
+./logs/26-Aug-21 00:21:39::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:22:04::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:22:04::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:22:04::__main__::DEBUG::Sleeping for 3.7
+./logs/26-Aug-21 00:22:42::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:22:53::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:22:55::__main__::INFO::
+Position 1:
+ (1) Full Stack Engineer | Laguna Health | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:22:55::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:23:23::__main__::INFO::Applying to javascript: Israel
+./logs/26-Aug-21 00:23:23::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:23:48::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:23:48::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:23:48::__main__::DEBUG::Sleeping for 4.8
+./logs/26-Aug-21 00:24:13::__main__::INFO::Applying to back-end: Kfar-Sava
+./logs/26-Aug-21 00:24:13::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:24:38::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:24:38::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:24:38::__main__::DEBUG::Sleeping for 3.7
+./logs/26-Aug-21 00:25:16::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:25:16::__main__::INFO::
+Position 1:
+ (1) Senior Back-End Developer | Gloat | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:25:29::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:25:37::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:25:39::__main__::INFO::
+Position 2:
+ (1) Back End Developer | Sela Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:25:53::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:26:00::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:26:02::__main__::INFO::
+Position 3:
+ (1) Back-End Team Leader | Gloat | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:26:16::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:26:27::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:26:29::__main__::INFO::
+Position 4:
+ (1) Back End Developer | Infinidat | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:26:42::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:26:53::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:26:55::__main__::INFO::
+Position 5:
+ (1) Java Back End Team Leader | NetoMedia | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:26:55::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:27:23::__main__::INFO::Applying to graphql: Israel
+./logs/26-Aug-21 00:27:23::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:27:48::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:27:48::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:27:48::__main__::DEBUG::Sleeping for 4.5
+./logs/26-Aug-21 00:28:26::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:28:26::__main__::INFO::
+Position 1:
+ (1) Full Stack Engineer | Laguna Health | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:28:26::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+

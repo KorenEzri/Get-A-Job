@@ -1,0 +1,53 @@
+./logs/25-Aug-21 23:26:01::__main__::INFO::Welcome to Easy Apply Bot
+
+./logs/25-Aug-21 23:26:01::__main__::INFO::current directory is : C:\Users\Koren\Desktop\Job-Application-Bot-master
+./logs/25-Aug-21 23:26:01::__main__::INFO::0 jobIDs found
+./logs/25-Aug-21 23:26:01::__main__::INFO::Logging in.....Please wait :)  
+./logs/25-Aug-21 23:26:10::__main__::INFO::Applying to Fullstack: TLV
+./logs/25-Aug-21 23:26:10::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:26:35::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:26:35::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:26:35::__main__::DEBUG::Sleeping for 3.8
+./logs/25-Aug-21 23:27:12::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:27:33::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:27:35::__main__::INFO::
+Position 1:
+ Senior Fullstack Engineer | K Health | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:27:49::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:28:00::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:28:02::__main__::INFO::
+Position 2:
+ Junior Fullstack Engineer | TailorMed | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:28:15::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:28:27::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:28:29::__main__::INFO::
+Position 3:
+ Fullstack Developer | Supersonic Studios | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:28:42::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:28:54::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:28:56::__main__::INFO::
+Position 4:
+ Fullstack Javascript Engineer | Totango | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:29:10::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:29:21::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:29:23::__main__::INFO::
+Position 5:
+ Fullstack Web Developer | KELA | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:29:36::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:29:48::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:29:51::__main__::INFO::
+Position 6:
+ Fullstack Developer | ironSource | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:30:04::__main__::INFO::Clicking the EASY apply button

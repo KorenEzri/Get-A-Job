@@ -1,0 +1,11 @@
+./logs/25-Aug-21 23:30:19::__main__::INFO::Welcome to Easy Apply Bot
+
+./logs/25-Aug-21 23:30:19::__main__::INFO::current directory is : C:\Users\Koren\Desktop\Job-Application-Bot-master
+./logs/25-Aug-21 23:30:19::__main__::INFO::6 jobIDs found
+./logs/25-Aug-21 23:30:19::__main__::INFO::Logging in.....Please wait :)  
+./logs/25-Aug-21 23:30:28::__main__::INFO::Applying to backend: Remote
+./logs/25-Aug-21 23:30:28::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:30:52::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:30:52::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:30:52::__main__::DEBUG::Sleeping for 4.0
+./logs/25-Aug-21 23:31:30::__main__::INFO::Clicking the EASY apply button

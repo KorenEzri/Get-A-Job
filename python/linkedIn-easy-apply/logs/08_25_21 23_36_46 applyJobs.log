@@ -1,0 +1,625 @@
+./logs/25-Aug-21 23:36:46::__main__::INFO::Welcome to Easy Apply Bot
+
+./logs/25-Aug-21 23:36:46::__main__::INFO::current directory is : C:\Users\Koren\Desktop\Job-Application-Bot-master
+./logs/25-Aug-21 23:36:46::__main__::INFO::6 jobIDs found
+./logs/25-Aug-21 23:36:46::__main__::INFO::Logging in.....Please wait :)  
+./logs/25-Aug-21 23:36:55::__main__::INFO::Applying to SQL: Israel
+./logs/25-Aug-21 23:36:55::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:37:20::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:37:20::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:37:20::__main__::DEBUG::Sleeping for 4.7
+./logs/25-Aug-21 23:37:59::__main__::INFO::The button does not exist.
+./logs/25-Aug-21 23:37:59::__main__::INFO::
+Position 1:
+ Junior Full Stack Engineer | Shamaym | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/25-Aug-21 23:38:13::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:38:24::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:38:26::__main__::INFO::
+Position 2:
+ Team Lead , SQL Optimization | Firebolt | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:38:39::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:38:47::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:38:49::__main__::INFO::
+Position 3:
+ SQL / DBA Developer | Verint Israel | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:39:03::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:39:13::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:39:15::__main__::INFO::
+Position 4:
+ Front-end Developer | RightBound | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:39:28::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:39:40::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:39:42::__main__::INFO::
+Position 5:
+ SQL Database Administrator | EXPERDA - Expert DBA Solutions | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:39:56::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:40:10::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:40:11::__main__::INFO::
+Position 6:
+ Senior Full Stack Developer for DevOps Group | Nuvei | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:40:25::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:40:35::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:40:37::__main__::INFO::
+Position 7:
+ Research Analyst | IVIX | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:40:37::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/25-Aug-21 23:41:05::__main__::INFO::Applying to mongoDB: Israel
+./logs/25-Aug-21 23:41:05::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:41:30::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:41:30::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:41:30::__main__::DEBUG::Sleeping for 4.1
+./logs/25-Aug-21 23:42:08::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:42:20::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:42:22::__main__::INFO::
+Position 1:
+ Developer | AiDock Ltd. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:42:36::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:42:47::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:42:49::__main__::INFO::
+Position 2:
+ Back End Developer | RAVIN.AI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:43:03::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:43:10::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:43:12::__main__::INFO::
+Position 3:
+ Full Stack Developer | Worthy.com | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:43:26::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:43:37::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:43:39::__main__::INFO::
+Position 4:
+ Junior Software Back-end Developer | Videocites | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:43:53::__main__::INFO::The button does not exist.
+./logs/25-Aug-21 23:43:53::__main__::INFO::
+Position 5:
+ Front-end Developer | RightBound | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/25-Aug-21 23:44:06::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:44:17::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:44:19::__main__::INFO::
+Position 6:
+ Developer | Equalweb | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:44:33::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:44:45::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:44:47::__main__::INFO::
+Position 7:
+ Senior MongoDB DBA - SON Group | HCL Technologies | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:44:47::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/25-Aug-21 23:45:15::__main__::INFO::Applying to frontend: Tel-Aviv-Jafo
+./logs/25-Aug-21 23:45:15::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:45:40::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:45:40::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:45:40::__main__::DEBUG::Sleeping for 4.1
+./logs/25-Aug-21 23:46:17::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:46:25::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:46:27::__main__::INFO::
+Position 1:
+ FrontEnd Engineering Team Lead | DigDayta.io | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:46:41::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:46:48::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:46:49::__main__::INFO::
+Position 2:
+ Senior Frontend Web Developer | Antelope Systems | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:47:03::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:47:14::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:47:15::__main__::INFO::
+Position 3:
+ Frontend Developer | Guesty | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:47:29::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:47:41::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:47:43::__main__::INFO::
+Position 4:
+ Frontend Team Leader | Steps | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:47:56::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:48:08::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:48:10::__main__::INFO::
+Position 5:
+ Senior Frontend Developer | Steps | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:48:23::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:48:36::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:48:38::__main__::INFO::
+Position 6:
+ Frontend Team Leader | PACKAGE.AI | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:48:51::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:49:03::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:49:05::__main__::INFO::
+Position 7:
+ Frontend Developer | AU10TIX | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:49:05::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/25-Aug-21 23:49:32::__main__::INFO::Applying to javascript: Tel-Aviv
+./logs/25-Aug-21 23:49:32::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:49:58::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:49:58::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:49:58::__main__::DEBUG::Sleeping for 3.9
+./logs/25-Aug-21 23:50:35::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:50:47::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:50:49::__main__::INFO::
+Position 1:
+ Junior Full Stack Developer | Stealth Mode Startup | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:51:02::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:51:12::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:51:14::__main__::INFO::
+Position 2:
+ Frontend Developer | Applitools | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:51:27::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:51:39::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:51:42::__main__::INFO::
+Position 3:
+ Frontend Developer | Eleos Health | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:51:55::__main__::INFO::The button does not exist.
+./logs/25-Aug-21 23:51:55::__main__::INFO::
+Position 4:
+ Front End Developer | BlueVine | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/25-Aug-21 23:52:08::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:52:15::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:52:17::__main__::INFO::
+Position 5:
+ Frontend Developer | Gloat | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:52:30::__main__::INFO::The button does not exist.
+./logs/25-Aug-21 23:52:30::__main__::INFO::
+Position 6:
+ Front End Engineer | Via | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/25-Aug-21 23:52:44::__main__::INFO::The button does not exist.
+./logs/25-Aug-21 23:52:44::__main__::INFO::
+Position 7:
+ Frontend Developer | Digital Turbine | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/25-Aug-21 23:52:44::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/25-Aug-21 23:53:11::__main__::INFO::Applying to backend: Ha Merkaz
+./logs/25-Aug-21 23:53:11::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:53:36::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:53:36::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:53:36::__main__::DEBUG::Sleeping for 4.2
+./logs/25-Aug-21 23:54:14::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:54:32::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:54:35::__main__::INFO::
+Position 1:
+ Front End Developer | BlueVine | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:54:49::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:54:57::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:54:59::__main__::INFO::
+Position 2:
+ Senior Backend Engineer | Moovit | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:55:12::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:55:24::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:55:26::__main__::INFO::
+Position 3:
+ Senior Backend Engineer | Artlist | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:55:40::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:55:52::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:55:54::__main__::INFO::
+Position 4:
+ Junior Software Back-end Developer | Videocites | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:56:07::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:56:14::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:56:16::__main__::INFO::
+Position 5:
+ Software Developer | Elbit Systems Ltd | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:56:29::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:56:40::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:56:42::__main__::INFO::
+Position 6:
+ Backend Engineer | SQLink Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:56:56::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:57:04::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:57:06::__main__::INFO::
+Position 7:
+ Senior Backend Engineer for Data Applications | Cellebrite | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:57:06::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/25-Aug-21 23:57:34::__main__::INFO::Applying to nodejs: Kfar Saba
+./logs/25-Aug-21 23:57:34::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:57:59::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Aug-21 23:57:59::__main__::INFO::9.0 minutes left in this search
+./logs/25-Aug-21 23:57:59::__main__::DEBUG::Sleeping for 3.7
+./logs/25-Aug-21 23:58:36::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:58:48::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:58:50::__main__::INFO::
+Position 1:
+ Frontend Developer | Insurights Inc | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:59:03::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:59:11::__main__::INFO::Application Submitted
+./logs/25-Aug-21 23:59:13::__main__::INFO::
+Position 2:
+ Back-end Developer | EvoHiring | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:59:26::__main__::INFO::Clicking the EASY apply button
+./logs/25-Aug-21 23:59:37::__main__::INFO::Could not complete submission
+./logs/25-Aug-21 23:59:39::__main__::INFO::
+Position 3:
+ .NET core / Nodejs Developer | NCR Corporation | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/25-Aug-21 23:59:52::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:00:00::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:00:02::__main__::INFO::
+Position 4:
+ NODEJS Developer | Yael Group | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:00:16::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:00:27::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:00:29::__main__::INFO::
+Position 5:
+ Back End Developer | Velocity | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:00:43::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:00:43::__main__::INFO::
+Position 6:
+ Senior Full Stack Developer for DevOps Group | Nuvei | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:00:57::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:01:04::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:01:06::__main__::INFO::
+Position 7:
+ Back End developer | Micro Focus | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:01:06::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:01:34::__main__::INFO::Applying to full stack: Kfar-Sava
+./logs/26-Aug-21 00:01:34::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:01:59::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:01:59::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:01:59::__main__::DEBUG::Sleeping for 4.6
+./logs/26-Aug-21 00:02:38::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:02:49::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:02:51::__main__::INFO::
+Position 1:
+ Full Stack Engineer | ActiveFence | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:03:04::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:03:15::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:03:18::__main__::INFO::
+Position 2:
+ Full Stack Engineer | DeePathology.ai | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:03:31::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:03:31::__main__::INFO::
+Position 3:
+ Junior Full Stack Engineer | Shamaym | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:03:45::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:04:00::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:04:02::__main__::INFO::
+Position 4:
+ Full Stack Engineer | Perion Network | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:04:16::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:04:16::__main__::INFO::
+Position 5:
+ Frontend Developer | AU10TIX | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:04:29::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:04:36::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:04:38::__main__::INFO::
+Position 6:
+ Full Stack Engineer | Investing.com | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:04:52::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:04:59::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:05:01::__main__::INFO::
+Position 7:
+ Full Stack Engineer | Panorays | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:05:01::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:05:29::__main__::INFO::Applying to Fullstack: TLV
+./logs/26-Aug-21 00:05:29::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:05:54::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:05:54::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:05:54::__main__::DEBUG::Sleeping for 4.1
+./logs/26-Aug-21 00:06:32::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:06:52::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:06:54::__main__::INFO::
+Position 1:
+ Senior Fullstack Engineer | BigPanda | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:06:54::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:07:22::__main__::INFO::Applying to graphQL: Kfar-Sava
+./logs/26-Aug-21 00:07:22::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:07:47::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:07:47::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:07:47::__main__::DEBUG::Sleeping for 4.8
+./logs/26-Aug-21 00:08:26::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:08:37::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:08:39::__main__::INFO::
+Position 1:
+ Junior Full Stack Developer | Stealth Mode Startup | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:08:53::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:09:04::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:09:07::__main__::INFO::
+Position 2:
+ Developer | AiDock Ltd. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:09:21::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:09:29::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:09:31::__main__::INFO::
+Position 3:
+ Fullstack Developer (NodeJS & PHP) | Affilomania | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:09:45::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:09:56::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:09:58::__main__::INFO::
+Position 4:
+ Full Stack Engineer | Natural Intelligence | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:10:11::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:10:23::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:10:25::__main__::INFO::
+Position 5:
+ Junior Software Back-end Developer | Videocites | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:10:38::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:10:50::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:10:52::__main__::INFO::
+Position 6:
+ Fullstack developer | Visitt.io | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:11:05::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:11:13::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:11:14::__main__::INFO::
+Position 7:
+ React Developer | Foothill Technology Solutions, LLC. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:11:14::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:11:42::__main__::INFO::Applying to web developement: Kfar-Sava
+./logs/26-Aug-21 00:11:42::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:12:08::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:12:08::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:12:08::__main__::DEBUG::Sleeping for 3.8
+./logs/26-Aug-21 00:12:45::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:12:58::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:12:59::__main__::INFO::
+Position 1:
+ Frontend Developer | Insurights Inc | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:13:13::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:13:23::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:13:26::__main__::INFO::
+Position 2:
+ Frontend Developer | Applitools | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:13:40::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:13:48::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:13:50::__main__::INFO::
+Position 3:
+ Web Development TechBoost | CodeValue | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:14:04::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:14:23::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:14:25::__main__::INFO::
+Position 4:
+ Front End Developer | BlueVine | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:14:39::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:14:46::__main__::INFO::Application Submitted
+./logs/26-Aug-21 00:14:48::__main__::INFO::
+Position 5:
+ Web Development TechBoost | CodeValue | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:15:02::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:15:02::__main__::INFO::
+Position 6:
+ Frontend Developer | AU10TIX | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:15:17::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:15:29::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:15:32::__main__::INFO::
+Position 7:
+ Mobile and Web Development Tech Lead | Unilink Ltd. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:15:32::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:15:59::__main__::INFO::Applying to web developement: Israel
+./logs/26-Aug-21 00:15:59::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:16:25::__main__::INFO::Looking for jobs.. Please wait..
+./logs/26-Aug-21 00:16:25::__main__::INFO::9.0 minutes left in this search
+./logs/26-Aug-21 00:16:25::__main__::DEBUG::Sleeping for 4.2
+./logs/26-Aug-21 00:17:03::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:17:14::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:17:16::__main__::INFO::
+Position 1:
+ (1) Frontend Developer | Insurights Inc | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:17:29::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:17:48::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:17:50::__main__::INFO::
+Position 2:
+ (1) Front End Developer | BlueVine | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:18:04::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:18:16::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:18:18::__main__::INFO::
+Position 3:
+ (1) Frontend Developer | Applitools | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:18:32::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:18:32::__main__::INFO::
+Position 4:
+ (1) Web Development TechBoost | CodeValue | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:18:45::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:19:05::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:19:07::__main__::INFO::
+Position 5:
+ (1) Front End Developer | BlueVine | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:19:21::__main__::INFO::The button does not exist.
+./logs/26-Aug-21 00:19:21::__main__::INFO::
+Position 6:
+ (1) Frontend Developer | AU10TIX | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/26-Aug-21 00:19:35::__main__::INFO::Clicking the EASY apply button
+./logs/26-Aug-21 00:19:47::__main__::INFO::Could not complete submission
+./logs/26-Aug-21 00:19:49::__main__::INFO::
+Position 7:
+ (1) Mobile and Web Development Tech Lead | Unilink Ltd. | LinkedIn 
+ * has Easy Apply Button 
+
+./logs/26-Aug-21 00:19:49::__main__::INFO::****************************************
+
+
+					Going to next jobs page, YEAAAHHH!!
+					****************************************
+
+
+./logs/26-Aug-21 00:20:17::__main__::INFO::Applying to graphql: Kfar-Saba
+./logs/26-Aug-21 00:20:17::__main__::INFO::Looking for jobs.. Please wait..

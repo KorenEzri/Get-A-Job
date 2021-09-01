@@ -1,0 +1,5 @@
+./logs/29-Aug-21 12:37:46::WDM::Current google-chrome version is 92.0.4515
+./logs/29-Aug-21 12:37:46::WDM::Get LATEST driver version for 92.0.4515
+./logs/29-Aug-21 12:37:46::WDM::Get LATEST driver version for 92.0.4515
+./logs/29-Aug-21 12:37:46::WDM::Trying to download new driver from http://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+./logs/29-Aug-21 12:37:47::WDM::Driver has been saved in cache [C:\Users\Koren\.wdm\drivers\chromedriver\win32\92.0.4515.107]
